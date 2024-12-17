@@ -31,4 +31,4 @@ def csv_to_geojson(input_csv, output_geojson, lat_col='LATITUDE', lon_col='LONGI
     print(f"GeoJSON file has been saved to {output_geojson}")
 
 # Example usage
-csv_to_geojson('dataset/commodity_relevant_data/mineral_resource_potential.csv', 'dataset/commodity_relevant_data/mineral_resource_potential.geojson')
+csv_to_geojson('dataset/commodity/graphite_mines_and_mineral_deposits.csv', 'dataset/commodity/graphite_mines_and_mineral_deposits.geojson')
