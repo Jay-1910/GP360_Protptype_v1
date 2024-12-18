@@ -2,7 +2,7 @@ import geopandas as gpd
 import pandas as pd
 from shapely.geometry import Point
 
-def csv_to_geojson(input_csv, output_geojson, lat_col='LATITUDE', lon_col='LONGITUDE'):
+def csv_to_geojson(input_csv, output_geojson, lat_col='Latitude', lon_col='Longitude'):
     """
     Convert a CSV file to a GeoJSON file using GeoPandas.
 
@@ -31,4 +31,4 @@ def csv_to_geojson(input_csv, output_geojson, lat_col='LATITUDE', lon_col='LONGI
     print(f"GeoJSON file has been saved to {output_geojson}")
 
 # Example usage
-csv_to_geojson('dataset/commodity/graphite_mines_and_mineral_deposits.csv', 'dataset/commodity/graphite_mines_and_mineral_deposits.geojson')
+csv_to_geojson('dataset/commodity_relevant_data/all_mines_and_mineral_deposits.csv', 'dataset/commodity_relevant_data/all_mines_and_mineral_deposits.geojson')

@@ -54,4 +54,4 @@ def csv_to_geojson(input_csv, output_geojson, lat_col=None, lon_col=None, geomet
 
 # Example usage
 # csv_to_geojson('dataset/commodity/gold_mines_and_mineral_deposits.csv', 'output.geojson', lat_col='latitude', lon_col='longitude')
-csv_to_geojson('dataset/commodity_relevant_data/mineral_resource_potential.csv', 'dataset/commodity_relevant_data/mineral_resource_potential.geojson', geometry_col='geometry')
+csv_to_geojson('dataset/commodity_relevant_data/geophysical_surveys.csv', 'dataset/commodity_relevant_data/geophysical_surveys.geojson', geometry_col='geometry')

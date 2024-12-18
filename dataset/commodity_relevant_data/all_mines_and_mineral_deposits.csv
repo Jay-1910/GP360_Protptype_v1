@@ -1,0 +1,424 @@
+Deposit Name,Deposit Commodities,Size Type Value,Geological Province,Local Ore Control,Ore Lithology,Ore Strat Name,Host Lithology,Host Strat Name,Longitude,Latitude
+INDULKANA FAULT,Copper,Low Significance,MOORILYANNA GRABEN,Structural-fault/shear/fracture,TECTONITE,Birksgate Complex,GNEISS,Birksgate Complex,133.135293,-26.790022
+WAUKALOO,"Copper, Gold, Molybdenum",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,ALBITE-ALTERED ROCK (SEDIMENT PRECURSOR),hydrothermal alteration,CALCSILICATE ROCK,Ethiudna Calc-silicate Group,140.397167,-31.824655
+MOORILYANNA A,Copper,Low Significance,MUSGRAVE PROVINCE,Structural-fault/shear/fracture,DOLERITE,Mesoproterozoic unit 21,GNEISS,Birksgate Complex,132.955693,-26.878699
+MOORILYANNA C,Copper,Low Significance,MUSGRAVE PROVINCE,Structural-fault/shear/fracture,DOLERITE,Mesoproterozoic unit 21,GNEISS,Birksgate Complex,132.984128,-26.869992
+MOORILYANNA D,Copper,Low Significance,MUSGRAVE PROVINCE,Structural-fault/shear/fracture,DOLERITE,Mesoproterozoic unit 21,GNEISS,Mesoproterozoic unit 21,133.014159,-26.873441
+RONALDS WELL,Copper,Low Significance,MUSGRAVE PROVINCE,Structural-joint,DOLERITE,Mesoproterozoic unit 21,ULTRAMAFIC INTRUSIVE,Giles Complex,132.567296,-26.98832
+STARLIGHT DAM,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Tarcowie Siltstone,139.82579,-32.334404
+WOPPA BORE,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Tapley Hill Formation,139.680886,-32.335558
+NECTAR,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein,SHALE,Enorama Shale,139.902949,-32.372082
+ELSIE MAY,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,139.832151,-32.368561
+BILLEROO HILL,"Copper, Gold",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,TECTONITE,hydrothermal alteration,METASEDIMENT,Willyama Supergroup unit 19,139.910066,-31.89489
+KALKAROO EAST,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Geochemical-contacts,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,SAND,Eyre Formation,140.698599,-31.738934
+JASONS,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Geochemical-contacts,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,SAND,Eyre Formation,140.643533,-31.617624
+OBAN,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Geochemical-contacts,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,SAND,Eyre Formation,140.790189,-31.193254
+BILLEROO,"Uranium, Uranium Oxide",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,PEGMATITE (NO COMPOSITION),pegmatite,GRANITOID ROCK,Willyama Supergroup unit 2,139.907812,-31.934251
+NANCATEE WELL,Gold,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Willyama Supergroup unit 19,140.28728,-31.785668
+BILLEROO,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,GOSSAN,deep weathering,CALCSILICATE ROCK,Willyama Supergroup unit 19,139.935864,-31.923393
+NINNERIE,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,REGOLITH,Mesoproterozoic unit 10,GRANITOID ROCK,Mesoproterozoic unit 10,139.843688,-31.986276
+HOMEWARD BOUND,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,SHALE,Enorama Shale,139.872233,-32.386772
+ODD TRICK,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-contact,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,139.828792,-32.388405
+ELLA JONES,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,139.841337,-32.406621
+PREMIER,"Copper, Gold",Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,TECTONITE,hydrothermal alteration,SCHIST,Wilyerpa Formation,140.562161,-32.279162
+TEETULPA WEST,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SLATE,Tapley Hill Formation,139.656287,-32.250718
+TEETULPA FAR WEST,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SLATE,Tapley Hill Formation,139.638168,-32.248539
+BIRTHDAY,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein,SHALE,Enorama Shale,139.857891,-32.361181
+AURORA  AUSTRALIS,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,139.850283,-32.358764
+NO GAMMON,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,139.9107,-32.377246
+GLENROWAN,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.865238,-34.480986
+KOPPIO HOMESTEAD,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,QUARTZITE,Hutchison Group,135.864754,-34.434096
+KADLUNGA,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Middleback Subgroup,QUARTZITE,Hutchison Group,135.880771,-34.466897
+CHANNEL,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,METASEDIMENT,Hutchison Group,135.861887,-34.451701
+WIRRANDA,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.802409,-34.440751
+KASEY,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.669954,-34.870965
+C. THEAKSTONE,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.70917,-34.852431
+MERCHANTS,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.702147,-34.5769
+BLACKBOY,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein,ALASKITE,Mesoproterozoic unit 1,139.839793,-32.011696
+MAYNARDS,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapley Hill Formation,139.707336,-32.168802
+MONTE CHRISTO,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,CLAYSTONE,Wilyerpa Formation,139.564831,-32.031464
+SPRING HILL,"Uranium, Gold, Uranium Oxide",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Geochemical-fluid,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Willyama Supergroup unit 1,139.710869,-31.825958
+CROCKER,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,PEGMATITE (NO COMPOSITION),pegmatite,GRANITE,Mesoproterozoic unit 1,139.785504,-32.008105
+MOUNT VICTORIA,"Uranium, Rare Earths, Uranium Oxide",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,ALBITITE (METASOMATIC),hydrothermal alteration,SCHIST,Willyama Supergroup,139.844685,-31.936308
+SUNNY BRAE,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,AMPHIBOLITE,Burrawing Amphibolite,JASPILITE,Lower Middleback Jaspilite,136.141498,-34.191141
+TEWINGA,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,GNEISS,Donington Suite,GNEISS,Donington Suite,135.911946,-34.490115
+TALLALA,Uranium,Low Significance,GAWLER CRATON,Lithological-non specific,GNEISS,Donington Suite,GNEISS,Donington Suite,135.90484,-34.519106
+BECAROO,"Uranium, Rare Earths",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Geochemical-fluid,GRANITOID ROCK,Mesoproterozoic unit 31,GRANITOID ROCK,Mesoproterozoic unit 31,139.90384,-31.94802
+CROCKER CENTRAL,"Uranium, Uranium Oxide",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-joint,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,ALASKITE,Mesoproterozoic unit 1,139.822594,-32.013596
+FISHERY,Graphite,Low Significance,GAWLER CRATON,Lithological-non specific,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.665901,-34.912731
+AMEROO,"Copper, Graphite",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,AMPHIBOLITE,Willyama Supergroup,140.196096,-32.126934
+REEVESBY ISLAND,Copper,Low Significance,GAWLER CRATON,Lithological-contact,AMPHIBOLITE,amphibolite,GNEISS,Donington Suite,136.284143,-34.522208
+ANTRO WEST,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,REGOLITH,Benda Siltstone,GRANITE,Mesoproterozoic unit 1,140.073784,-32.061417
+ETHIUDNA PIPERS,"Copper, Cobalt, Nickel, Wollastonite",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fold,GOSSAN,deep weathering,CALCSILICATE ROCK,Ethiudna Subgroup,139.838044,-32.053621
+MINDAMEREEKA TRIG,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,PEGMATITE (NO COMPOSITION),pegmatite,QUARTZITE,Willyama Supergroup,139.897977,-32.042164
+PORT LINCOLN,Copper,Low Significance,GAWLER CRATON,Structural-fault/shear/fracture,TECTONITE,Palaeoproterozoic unit 10,GNEISS,Hutchison Group,136.028197,-34.33147
+LIPSONS COVE,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GNEISS,Donington Suite,136.259697,-34.265373
+NEW MOUNT LIVERPOOL,Copper,Low Significance,GAWLER CRATON,Structural-fault/shear/fracture,PEGMATITE (NO COMPOSITION),pegmatite,GNEISS,Donington Suite,135.968145,-34.386429
+OLD MOUNT LIVERPOOL,Copper,Low Significance,GAWLER CRATON,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GNEISS,Donington Suite,135.979483,-34.379304
+SCRUBBERS CAMP ALLUVIALS,Gold,Low Significance,TERTIARY PALAEOCHANNELS,-,ALLUVIUM,Tertiary rocks,-,-,138.973535,-33.330858
+HOSPITAL,"Uranium, Uranium Oxide",Low Significance,GAWLER CRATON,Structural-fault/shear/fracture,GNEISS,Colbert Granite,PARAGNEISS,Colbert Granite,135.848323,-34.724131
+AINSLEE SOUTH,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Geochemical-fluid,TECTONITE,Colbert Granite,GNEISS,Colbert Granite,135.839508,-34.684064
+LINCOLN FRASERS,Uranium,Low Significance,GAWLER CRATON,Structural-fault/shear/fracture,GNEISS,Wanna Megacrystic Granite Gneiss,ORTHOGNEISS,Wanna Megacrystic Granite Gneiss,135.840433,-34.744467
+MORIALPA,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Willyama Supergroup unit 8,139.879415,-32.285097
+MORIALPA WEST,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-contact,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GNEISS,Willyama Supergroup,139.865561,-32.280464
+MONTSTEPHEN WELL,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Willyama Supergroup,139.912152,-32.175691
+MITCHELLS,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,TECTONITE,hydrothermal alteration,METASEDIMENT,Wilyerpa Formation,139.933358,-32.176232
+LUIGIS,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,CALCSILICATE ROCK,Bimba Formation,METASEDIMENT,Willyama Supergroup unit 14,140.29879,-32.117261
+WOMAN IN WHITE,"Gold, Corundum, Copper",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,IRONSTONE (METASOMATIC),hydrothermal alteration,ALBITITE (METASOMATIC),Abminga Subsuite,140.288578,-32.119135
+LADY LOUISE,"Copper, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fold,IRONSTONE (METASOMATIC),Bimba Formation,GNEISS,Wiperaminga Subgroup,140.28708,-32.109978
+CATHEDRAL ROCK,"Copper, Uranium, Zinc",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,FAULT BRECCIA,hydrothermal alteration,CALCALBITE-ALTERED ROCK (CHEMICAL SED PRECURSOR),Ethiudna Calc-silicate Group,140.344789,-32.088369
+BLACK HILL DAM,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METAVOLCANIC,Boucaut Volcanics,140.901461,-32.519196
+MARNA,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Mintaro Shale,140.370358,-32.559852
+CURRANT BUN,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Mintaro Shale,140.412447,-32.539319
+WESTONIA,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SLATE,Mintaro Shale,140.341366,-32.525875
+ANABAMA,"Copper, Silver, Gold, Cobalt, Molybdenum, Zinc",Locally Significant,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,PHYLLITE,Benda Siltstone,METASEDIMENT,Yudnamutana Subgroup,140.287282,-32.786997
+NETLEY HILL,"Molybdenum, Copper",Locally Significant,DELAMERIAN OROGEN,Geochemical-non specific,GREISEN,Anabama Granite,QUARTZ FELDSPAR PORPHYRY,Anabama Granite,140.043158,-32.807648
+FAUGH A BALLAGH,"Copper, Gold",Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),Structural-fault/shear/fracture,IRON FORMATION,Ethiudna Subgroup,CALCALBITE-ALTERED ROCK (SEDIMENT PRECURSOR),Ethiudna Calc-silicate Group,140.204225,-32.18421
+FAUGH A BALLAGH,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,ALBITITE (METASOMATIC),Willyama Supergroup,140.334629,-32.551459
+GREEN AND GOLD,"Copper, Gold",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,TECTONITE,Ethiudna Calc-silicate Group,CALCSILICATE ROCK,Ethiudna Calc-silicate Group,140.47485,-32.198965
+PIMPONDA,"Copper, Gold",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 3,SLATE,Mesoproterozoic unit 1,140.262749,-32.087007
+MENINGIE WELL SOUTH,"Copper, Zinc",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,GOSSAN,deep weathering,CALCSILICATE ROCK,Willyama Supergroup unit 16,140.389641,-32.084261
+MOOLEUGORE,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,GOSSAN,Bimba Formation,CALCSILICATE ROCK,Bimba Formation,140.409808,-32.001396
+ANTRO WELL,"Copper, Beryllium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,SKARN,skarn,CALCSILICATE ROCK,Willyama Supergroup,140.074495,-32.029713
+WEEKEROO,"Copper, Rare Earths",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,GOSSAN,deep weathering,GNEISS,Bimba Formation,140.044726,-32.233213
+SMITHS,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,QUARTZITE,Pualco Tillite,140.221186,-32.515761
+ERINGA,"Copper, Gold",Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,140.316694,-32.416094
+LEYS,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 1,METASEDIMENT,Enorama Shale,140.252509,-32.448701
+GOLDEN DEWDROP,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Geochemical-contacts,VEIN (UNDIFFERENTIATED),quartz vein,SLATE,Tapley Hill Formation,140.160526,-32.329226
+MIGO,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SHALE,Enorama Shale,140.140652,-32.363597
+BOOMERANG,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,140.145364,-32.365524
+MEGAWS,"Copper, Silver, Gold, Graphite, Lead, Zinc",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Willyama Supergroup unit 14,140.308244,-32.240814
+SCORPION,"Copper, Gold, Cobalt",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,TECTONITE,hydrothermal alteration,AMPHIBOLITE,Willyama Supergroup,140.909593,-32.226526
+ROUND HILL EAST,Gold,Low Significance,DELAMERIAN OROGEN,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Anabama Granite,140.351235,-32.626778
+ESMONDE EAST,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,PHYLLITE,Mintaro Shale,140.343846,-32.55101
+BONNIE KEITH EAST,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,PHYLLITE,Mintaro Shale,140.350453,-32.543152
+ESMONDE SOUTH,Gold,Low Significance,-,-,GRAVEL,Holocene alluvial/fluvial unit 1,-,-,140.342501,-32.556025
+PEGLINE DAM WEST,"Copper, Gold",Low Significance,ADELAIDE GEOSYNCLINE,Geochemical-fluid,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Benda Siltstone,140.650056,-32.490142
+STONE TANK,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Geochemical-fluid,GOSSAN,deep weathering,AMPHIBOLITE,Willyama Supergroup unit 1,140.930987,-32.302426
+DEY HILL,Zinc,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,GNEISS,Willyama Supergroup,140.708979,-32.36407
+TALTABOOKA,"Gold, Copper",Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Mintaro Shale,140.28501,-32.509419
+GOLDEN SOPHIA,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Mintaro Shale,140.275999,-32.544413
+GOLDEN STREAM,Gold,Low Significance,DELAMERIAN OROGEN,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Benda Siltstone,140.317013,-32.63731
+MILDALTIE SHOOTS,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METASEDIMENT,Yudnamutana Subgroup,140.561721,-32.329363
+CURRANT BUN WEST,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Mintaro Shale,140.407411,-32.537886
+MOUNT QUONDONG,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,TILLITE,Benda Siltstone,140.224651,-32.515197
+PEARSONS,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Mintaro Shale,140.34858,-32.566505
+KINGS WELL,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,BRECCIA (UNDIFF. ORIGIN),hydrothermal alteration,LAMPROPHYRE,lamprophyre,139.272459,-33.583089
+MURPHYS CLAIMS,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Geochemical-fluid,REGOLITH,Skillogalee Dolomite,DOLOMITE ROCK,Skillogalee Dolomite unit 6,139.160009,-33.935133
+MOUNT EURO,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,SANDSTONE,Bunyeroo Formation,METASEDIMENT,Bunyeroo Formation,138.885308,-30.783248
+DALKEY NORTH,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapley Hill Formation,140.569167,-32.338726
+DALKEY CENTRAL,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METASEDIMENT,Yudnamutana Subgroup,140.566971,-32.353648
+GALL WELL EAST,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,IRONSTONE (UNDIFF. ORIGIN),quartz vein unit 4,TILLITE,Wilyerpa Formation unit 4,140.592322,-32.317152
+TAYLOR SHAFT,"Copper, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,IRONSTONE (UNDIFF. ORIGIN),deep weathering,GNEISS,Willyama Supergroup,140.666814,-32.320411
+PEAKED HILL EAST,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Pualco Tillite,140.731366,-32.457415
+W. MACDONALD,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GNEISS,Willyama Supergroup,140.566754,-32.245104
+OAK PARK WEST,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Belair Subgroup,139.508226,-32.823073
+WHEAL MOTLEY,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SANDSTONE,Pualco Tillite,139.592956,-32.902974
+WHITE ROCKS,Copper,Locally Significant,ADELAIDE GEOSYNCLINE,Lithological-non specific,METADACITE,Boucaut Volcanics,METAVOLCANIC,Boucaut Volcanics,140.358082,-32.80809
+YADNARIE,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Structural-fault/shear/fracture,TECTONITE,Yadnarie Schist,SCHIST,Yadnarie Schist,136.456953,-33.650422
+STANLEYS,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,QUARTZITE,Warrow Quartzite,136.421282,-33.438029
+ARGENT,"Graphite, Silver",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Structural-non specific,SCHIST,Warrow Quartzite,METASEDIMENT,Warrow Quartzite,136.422054,-33.467636
+BRODIE WELL,Heavy Minerals,Low Significance,GAWLER CRATON,-,ALLUVIUM,Quaternary alluvial/fluvial sediments,-,-,136.258369,-32.3418
+TARDLAPINNA WELL,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Geochemical-fluid,GOSSAN,gossan,METASEDIMENT,Amberoona Formation,139.380983,-29.930971
+GRAINGERS OLD,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,SANDSTONE,Tapanappa Formation,137.233956,-35.707958
+WAUKAWOONDNA CREEK,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SHALE,Wonoka Formation,138.858414,-30.790228
+BULLOCK HEAD BORE,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,DOLOMITE ROCK,Bunyeroo Formation,138.962799,-30.869713
+LAGOON HILL,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Appila Tillite,138.955217,-33.951606
+PRINCESS ROYAL FAR NORTH,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Woolshed Flat Shale,138.995963,-33.75656
+RED RANGE NORTH,"Zinc, Silver, Copper, Lead",Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,DOLOMITIC LIMESTONE,Ajax Limestone,138.345445,-30.887907
+WALTERS,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SHALE,Bunyeroo Formation,138.399371,-30.893061
+CAINES,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),hydrothermal alteration,SHALE,Bunyeroo Formation,138.255696,-30.789716
+BIMBA,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,GOSSAN,deep weathering,CALCSILICATE ROCK,Bimba Formation,140.199057,-31.933083
+BILLEROO NORTH,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,MYLONITE,Willyama Supergroup,139.914636,-31.850517
+HILLS CLAIM,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,SHALE,Bunyeroo Formation,138.400194,-30.87035
+KOHINOOR WEST,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SANDSTONE,Delamerian igneous unit 16,137.41199,-35.757708
+AMERICAN RIVER,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fold,VEIN (UNDIFFERENTIATED),hydrothermal alteration,GREYWACKE,Tapanappa Formation,137.803603,-35.757595
+DESTREES BAY,Heavy Minerals,Low Significance,COASTAL QUATERNARY,-,SAND,Semaphore Sand Member,-,-,137.621237,-35.90619
+KOHINOOR,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SANDSTONE,Tapanappa Formation,137.418081,-35.754341
+MORRISON BEACH,Heavy Minerals,Locally Significant,COASTAL QUATERNARY,-,SAND,Semaphore Sand Member,SAND,Semaphore Sand,137.666408,-35.740257
+DEBNEYS,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,PHYLLITE,Tapanappa Formation,137.760826,-35.728542
+MOUNT SHANNAN,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,SCHIST,Yadnarie Schist,METASEDIMENT,Yadnarie Schist,136.486154,-33.637258
+WOMBAT FLAT,Heavy Minerals,Low Significance,COASTAL QUATERNARY,-,SAND,Saint Kilda Formation unit 15,-,-,135.15528,-33.462995
+YARRANNA CENTRAL,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Lithological-non specific,SAND,Tertiary-Pleistocene alluvial/fluvial sediments,SAND,Tertiary-Pleistocene lacustrine sediments,134.360173,-32.055428
+CHRISTIAN,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-contact,APLITE,Spilsby Suite unit 2,BANDED IRON FORMATION,Lower Middleback Jaspilite,136.423287,-33.603197
+WESTWARD HO,Gold,Locally Significant,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,139.81351,-32.371679
+EUDUNDA HOPE,Gold,Locally Significant,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,139.834557,-32.371559
+TROJAN,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Enorama Shale,139.866309,-32.373923
+STARLIGHT DAM NORTH,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Tarcowie Siltstone,139.823712,-32.330776
+MORIALPA EAST,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Tapley Hill Formation,139.892476,-32.284397
+BRISTOWES,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,FAULT BRECCIA,hydrothermal alteration,GNEISS,Willyama Supergroup,140.650405,-32.338392
+COMPANY WELL,Gold,Low Significance,WILGENA SUBDOMAIN (GAWLER CRATON),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GNEISS,Kenella Gneiss,134.961352,-30.684521
+TOLMERS HILL,Gold,Low Significance,CHRISTIE SUBDOMAIN (GAWLER CRATON),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,QUARTZITE,Tarcoola Formation,134.461988,-30.705863
+MALBOOMA,"Gold, Aluminium",Low Significance,CHRISTIE SUBDOMAIN (GAWLER CRATON),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,ANORTHOSITE,Muckanippie Suite,134.138718,-30.216583
+BARTLETTS,Gold,Low Significance,CHRISTIE SUBDOMAIN (GAWLER CRATON),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,QUARTZITE,Fabian Quartzite Member,134.485282,-30.762839
+CROCKER EASTERN,"Uranium, Uranium Oxide",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,ALASKITE,Crocker Well Suite,139.833461,-32.011567
+GOULDS DAM,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Geochemical-contacts,SAND,Eyre Formation,CLAY (SEDIMENTARY),Eyre Formation,139.949335,-31.470713
+EGAN,"Copper, Gold, Tungsten",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,FAULT BRECCIA,hydrothermal alteration,GRANITOID ROCK,Willyama Supergroup,139.838486,-31.979192
+OAK PARK EAST,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Belair Subgroup,139.537975,-32.819815
+PEARLAH,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.678899,-34.573695
+BILLEROO HILL WEST,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Willyama Supergroup,139.897924,-31.8916
+MINBRIE SPRINGS,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Structural-fault/shear/fracture,FAULT BRECCIA,hydrothermal alteration,SCHIST,Warrow Quartzite,136.89619,-33.517406
+WIPERAMINGA,"Copper, Feldspar",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,BRECCIA (UNDIFF. ORIGIN),hydrothermal alteration,CALCSILICATE ROCK,Bimba Formation,140.433323,-31.97543
+BOOLCOOMATA,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,PELITE,Willyama Supergroup,140.463791,-31.957808
+BIMBA NORTH,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,GOSSAN,deep weathering,CALCSILICATE ROCK,Bimba Formation,140.21759,-31.905773
+OLD STATION BORE,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GNEISS,Willyama Supergroup,139.693915,-31.900764
+HONEYMOON,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Geochemical-contacts,SAND,Eyre Formation,CLAY (SEDIMENTARY),Eyre Formation,140.661933,-31.742027
+MONARTO,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,139.129798,-35.024139
+BILLS HILL,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,IRONSTONE (UNDIFF. ORIGIN),hydrothermal alteration,TILLITE,Wilyerpa Formation,140.581224,-32.292912
+TALBOT CREEK,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,FAULT BRECCIA,Mesoproterozoic unit 1,GRANITOID ROCK,Mesoproterozoic unit 1,139.843285,-31.921053
+WINDAMERTA,"Copper, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,TECTONITE,hydrothermal alteration,GRANITOID ROCK,Mesoproterozoic unit 1,139.821763,-31.925017
+KOBOL,Copper,Low Significance,MUSGRAVE PROVINCE,Structural-fault/shear/fracture,DOLERITE,Mesoproterozoic unit 21,GNEISS,Birksgate Complex,132.939164,-26.857746
+DUFFIELDS BORE,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,TILLITE,Pualco Tillite,140.594283,-32.437095
+WELLS GRANITE DOWNS,Gold,Low Significance,MUSGRAVE PROVINCE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GNEISS,Wataru Gneiss,133.49916,-26.929299
+OLD WELL,Copper,Low Significance,MOORILYANNA GRABEN,Structural-fault/shear/fracture,DOLERITE,Mesoproterozoic unit 21,GNEISS,Wataru Gneiss,133.090317,-26.767218
+NEW MOUNT LIVERPOOL NORTH,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GNEISS,Donington Suite,135.969754,-34.384432
+MIDNINTIE,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Geochemical-fluid,METASEDIMENT,Warrow Quartzite,GRANITE,Yunta Well Leucogranite,136.131592,-34.225743
+BURRAWING,"Copper, Gold",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Structural-fault/shear/fracture,FAULT BRECCIA,Lower Middleback Jaspilite,BANDED IRON FORMATION,Lower Middleback Jaspilite,136.110726,-34.269248
+COPPER RIDGE,Copper,Low Significance,GAWLER CRATON,Structural-fault/shear/fracture,MYLONITE,Donington Suite,GNEISS,Donington Suite,136.064575,-34.322016
+LOMAX,"Uranium, Uranium Oxide",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,GNEISS,Wanna Megacrystic Granite Gneiss,GNEISS,Wanna Megacrystic Granite Gneiss,135.844921,-34.722531
+DAVEY WOLLASTON,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,GNEISS,Wanna Megacrystic Granite Gneiss,GNEISS,Wanna Megacrystic Granite Gneiss,135.824481,-34.731869
+SOUTH HILL,Uranium,Low Significance,CURNAMONA PROVINCE,Structural-fault/shear/fracture,TECTONITE,hydrothermal alteration,FELSIC PEGMATITE,Willyama Supergroup unit 1,140.64132,-32.351897
+BUMBUMBIE HILL,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Wilyerpa Formation,139.822967,-32.273308
+JAGGED ROCKS,"Uranium, Uranium Oxide",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,MIGMATITE,Willyama Supergroup unit 1,DIORITE,Willyama Supergroup,139.754591,-31.890442
+CROCKER ORIGINAL,"Uranium, Thorium, Uranium Oxide",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fold,QUARTZ SYENITE,Crocker Well Suite,ALASKITE,Crocker Well Suite,139.801956,-32.012952
+CROCKER SOUTH,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,FAULT BRECCIA,hydrothermal alteration,ALASKITE,Mesoproterozoic unit 1,139.805446,-32.029601
+CROCKER JUNCTION,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,ALASKITE,Willyama Supergroup,139.803777,-32.018133
+DRY CREEK,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,AMPHIBOLITE,Willyama Supergroup unit 1,140.888691,-32.300216
+WOOCALLA,Copper,Low Significance,CARIEWERLOO BASIN,Lithological-non specific,QUARTZITE,Pandurra Formation,DOLOMITE ROCK,Woocalla Dolomite Member,137.188711,-31.685115
+LUXEMBURG,Gold,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,GNEISS,Willyama Supergroup,140.565215,-32.265054
+QUEEN BEE,"Copper, Gold",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,GNEISS,Willyama Supergroup,140.566262,-32.268215
+WINDAMERTA EAST,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,SCHIST,Willyama Supergroup,139.807767,-31.935382
+WINDAMERTA WEST,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,GNEISS,Willyama Supergroup,139.797657,-31.940342
+TATTALENGHI,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,BANDED IRON FORMATION,Hutchison Group,135.826358,-34.38123
+BRUCE,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,SCHIST,Hutchison Group,136.087574,-34.27649
+FOLLETT AND BOYD,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,SCHIST,Middleback Subgroup,GOSSAN,Middleback Subgroup,135.938819,-34.380615
+HOMESTEAD,Graphite,Low Significance,GAWLER CRATON,-,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.67175,-34.824509
+MORNINGTON,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,GNEISS,Warrow Quartzite,GNEISS,Warrow Quartzite,135.732471,-34.491476
+BANTU,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,GNEISS,Donington Suite,GNEISS,Donington Suite,135.883939,-34.519448
+KINMONT,Graphite,Low Significance,GAWLER CRATON,Structural-fold,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.682896,-34.84826
+SLEAFORD MERE,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.732968,-34.822261
+LINCOLN PLUMBAGO,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,SCHIST,Hutchison Group,135.74108,-34.78633
+COOMUNGA,Graphite,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),-,SCHIST,Hutchison Group,MARBLE,Hutchison Group,135.751118,-34.677239
+ST ELMO,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Skillogalee Dolomite,139.042803,-33.856681
+OLD WOOKONGARIE,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Undalya Quartzite,138.990693,-33.30903
+BRANCH CREEK SOUTH,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-contact,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,PERIDOTITE,kimberlite,138.976891,-33.367149
+ROUND HILL CENTRAL,Gold,Low Significance,DELAMERIAN OROGEN,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Anabama Granite,140.331685,-32.622631
+GILDED MONSTER,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SILTSTONE,Mintaro Shale,140.343192,-32.519585
+ETHIUDNA NO.1,"Copper, Cobalt",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fold,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,MARBLE,Ethiudna Calc-silicate Group,139.854929,-32.054592
+STREMPEL,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,TECTONITE,hydrothermal alteration,METASEDIMENT,Bimba Formation,139.828849,-32.062818
+MINDAMEREEKA,Graphite,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,CALCSILICATE ROCK,Willyama Supergroup unit 16,METASEDIMENT,Willyama Supergroup unit 16,139.907918,-32.023561
+PLUMBAGO,Graphite,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Geochemical-fluid,CALCSILICATE ROCK,Bimba Formation,METASEDIMENT,Willyama Supergroup unit 1,139.82218,-32.070695
+AMEROO HILL SOUTH,Zinc,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,GOSSAN,deep weathering,CALCSILICATE ROCK,Willyama Supergroup unit 14,140.194142,-32.132332
+BLACK MARIA,"Copper, Graphite",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Willyama Supergroup unit 14,140.294947,-32.108317
+QUARTZ HILL,Zinc,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,SCHIST,Palaeoproterozoic unit 2,140.84835,-32.287093
+TOMMY WATTIE WEST,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,PEGMATITE (NO COMPOSITION),pegmatite,METASEDIMENT,Willyama Supergroup unit 14,140.139091,-32.112487
+SPILSBY ISLAND,"Molybdenum, Tungsten",Low Significance,GAWLER CRATON,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 3,GRANITE,Spilsby Suite unit 1,136.346305,-34.682216
+DALBY ISLAND,"Copper, Zinc",Low Significance,GAWLER CRATON,Geochemical-fluid,GRANODIORITE,Donington Suite,GRANODIORITE,Donington Suite,136.236065,-34.564274
+DOUGHBOY WELL,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,SCHIST,Ethiudna Subgroup,GNEISS,Ethiudna Calc-silicate Group,140.116539,-32.086784
+GOLDEN BOOMERANG,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Enorama Shale,140.133855,-32.37415
+WADNAMINGA NO.5,Zinc,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,GOSSAN,deep weathering,SHALE,Wilyerpa Formation,140.318819,-32.490164
+WILKINS,"Copper, Gold, Cobalt",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,IRON FORMATION,Wiperaminga Subgroup,SCHIST,Wiperaminga Subgroup,140.547396,-32.201768
+TRINITY SOUTH,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Palaeoproterozoic unit 2,140.947006,-32.296916
+ETHIUDNA,"Graphite, Copper",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,MIGMATITE,Willyama Supergroup unit 1,MIGMATITE,Willyama Supergroup,139.862211,-32.054823
+ETHIUDNA MAIN SHAFT,"Copper, Cobalt, Uranium, Wollastonite",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fold,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,MARBLE,Willyama Supergroup,139.837629,-32.04979
+MCLEANS,Gold,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,AMPHIBOLITE,Willyama Supergroup unit 25,140.051734,-32.198391
+WALPARUTA,"Copper, Gold",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,ALBITITE (METASOMATIC),Willyama Supergroup unit 8,GNEISS,Willyama Supergroup unit 8,140.047936,-32.23156
+WALTER OUTALPA,Gold,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Willyama Supergroup unit 25,140.054224,-32.201641
+MARY,"Copper, Gold",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz-feldpsar vein,GNEISS,Ethiudna Calc-silicate Group,140.459173,-32.064383
+EALBARA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Geochemical-fluid,SAND,Tertiary-Pleistocene alluvial/fluvial sediments,SAND,Pidinga Formation,134.527124,-30.407235
+WARRIOR,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Lithological-non specific,SAND,Tertiary-Pleistocene alluvial/fluvial sediments,SAND,Pidinga Formation,134.028677,-30.606347
+MENINGIE WELL,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,GOSSAN,deep weathering,QUARTZITE,Willyama Supergroup unit 21,140.381991,-32.065235
+PUTTS WELL,"Copper, Gold",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-intersections,ALBITE-ALTERED ROCK (SEDIMENT PRECURSOR),Bimba Formation,ALBITITE (METASOMATIC),Mesoproterozoic unit 1,140.403959,-32.0186
+MACDONALD HILL,"Copper, Gold",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,MAGNETITE-RICH ROCK (METASOMATIC),Ethiudna Subgroup,CALCSILICATE ROCK,Ethiudna Subgroup,140.415201,-32.204048
+MOUNT BULL,"Copper, Gold, Iron",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-contact,METALLIC MINERALISED ROCK/ORE,hydrothermal alteration,BANDED IRON FORMATION,Willyama Supergroup,140.273605,-32.007238
+COPPERLINKA,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-joint,VEIN (UNDIFFERENTIATED),quartz vein unit 4,DOLOMITE ROCK,Pepuarta Tillite,140.255801,-32.416466
+COONDAPPIE,Uranium,Low Significance,FROME EMBAYMENT (EROMANGA BASIN),-,CLAY (SEDIMENTARY),Eyre Formation,-,-,139.744707,-31.605742
+APOINGA,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Appila Tillite,138.963183,-33.810378
+EDWARDS DAM,Heavy Minerals,Low Significance,GAWLER CRATON,-,ALLUVIUM,Holocene alluvial/fluvial unit 1,-,-,136.114371,-32.375706
+YANINEE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Lithological-non specific,SAND,Tertiary-Pleistocene alluvial/fluvial sediments,SAND,Tertiary-Pleistocene lacustrine sediments,135.1921,-33.071487
+KATTATA,Gold,Low Significance,GAWLER CRATON,Lithological-contact,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Hiltaba Suite,134.832377,-32.883086
+ST PETERS ISLAND,"Heavy Minerals, Tin",Low Significance,COASTAL QUATERNARY,-,SAND,Saint Kilda Formation unit 15,-,-,133.554344,-32.30696
+WINCKEL AND GASKELL,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lithological-non specific,PEGMATITE (NO COMPOSITION),pegmatite,SCHIST,Cook Gap Schist,136.377886,-33.614984
+SIMMS AND BRADLEY,Copper,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Structural-non specific,IRONSTONE (UNDIFF. ORIGIN),Tertiary-Pleistocene regolith/colluvial sediments,AMPHIBOLITE,Cook Gap Schist,136.493032,-33.641604
+GUM CREEK,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,BRECCIA (UNDIFF. ORIGIN),Saddleworth Formation,139.784902,-32.803109
+HONEYSUCKLE,Gold,Low Significance,ADELAIDE GEOSYNCLINE,-,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METASILTSTONE,Tapley Hill Formation,138.904434,-34.958599
+MALLEE DAM,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-non specific,IRONSTONE (UNDIFF. ORIGIN),hydrothermal alteration,METASEDIMENT,Cradock Quartzite Member,140.056662,-32.72233
+WELSH PRINCE,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SANDSTONE,Cradock Quartzite Member,140.106518,-32.641177
+GILES NOB,Copper,Low Significance,DELAMERIAN OROGEN,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GREISEN,Anabama Granite,140.331763,-32.564523
+TRENOWDENS,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,VEIN (UNDIFFERENTIATED),calcite,GNEISS,Willyama Supergroup unit 1,140.917281,-32.295687
+DRY CREEK,"Copper, Corundum",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Geochemical-fluid,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,Willyama Supergroup unit 1,GNEISS,Willyama Supergroup unit 1,140.892093,-32.297783
+CEMETERY,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METASEDIMENT,Yudnamutana Subgroup,140.565103,-32.34417
+BILLS HILL SOUTH,Gold,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Willyama Supergroup,140.582603,-32.293711
+COCKSCOMB HILL,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,DOLOMITE ROCK,Nuccaleena Formation,139.829277,-32.547998
+NEW YEAR,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Curdimurka Subgroup,138.345097,-30.817102
+SIX MILE,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,SHALE,Bunyeroo Formation,138.403219,-30.897738
+ESMONDE,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Mintaro Shale,140.340123,-32.550314
+MICHELLE HILL,Copper,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,MAFIC INTRUSIVE,Palaeoproterozoic unit 2,INTERMEDIATE INTRUSIVE,Willyama Supergroup unit 1,140.631006,-32.326788
+GUM WELL,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,DOLOMITE ROCK,Saddleworth Formation,139.822296,-32.793968
+LURON,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Mintaro Shale,140.32892,-32.552962
+LION HILL,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Pualco Tillite unit 4,140.36324,-32.52707
+NETLEY GAP WELL,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Belair Subgroup,140.036584,-32.773502
+LYNDOCH DAM,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SANDSTONE,Burra Group,140.801613,-32.533938
+CURDNATTA,Gold,Low Significance,CHRISTIE SUBDOMAIN (GAWLER CRATON),Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GRANITE,Paxton Granite,134.562701,-30.693834
+ROYAL GEORGE,Gold,Low Significance,GAWLER CRATON,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 3,GRANITE,Hiltaba Suite,134.499041,-30.699424
+COOALINGA CREEK,Gold,Low Significance,-,-,ALLUVIUM,Pleistocene alluvial/fluvial sediments,-,-,138.149338,-35.624901
+ROPERS,"Arsenic, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GREYWACKE,Backstairs Passage Formation,138.121704,-35.63915
+WHEAL HARMONY,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.994175,-35.111316
+ACLAIR NO.2,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASILTSTONE,Tapanappa Formation,138.9912,-35.12524
+FREEWAY SOUTH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,138.980398,-35.113881
+FREEWAY NORTH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,GOSSAN,deep weathering,SCHIST,Tapanappa Formation,139.010253,-35.113383
+STIRLING HILL,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,SCHIST,Tapanappa Formation,138.920395,-35.199683
+ACLAIR SOUTH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.983682,-35.13422
+BREADALBANE,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Tapanappa Formation,138.911081,-35.211694
+WILLOUGHBY,Molybdenum,Low Significance,ADELAIDE GEOSYNCLINE,Geochemical-fluid,GRANITE,Encounter Bay Granite,GRANITE,Encounter Bay Granite,138.134461,-35.84158
+BOMB ALLEY,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,FAULT BRECCIA,breccia unit 1,QUARTZITE,Delamerian igneous unit 16,137.458895,-35.747474
+TIPPINS,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SANDSTONE,Sturt Tillite,138.018233,-35.735425
+RAINBOWS END,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,FAULT BRECCIA,Tapanappa Formation,METASILTSTONE,Tapanappa Formation,137.314472,-35.739254
+DAWS,"Gold, Amethyst, Corundum, Heavy Minerals, Sapphire",Low Significance,-,-,GRAVEL,Holocene alluvial/fluvial unit 1,-,-,137.25888,-35.821427
+GRAINGERS SOUTH,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SANDSTONE,Kanmantoo Group,137.230342,-35.705778
+BLACK FEATHER,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,SHALE,Bunyeroo Formation,138.400743,-30.873247
+SLADE POINT,Heavy Minerals,Low Significance,COASTAL QUATERNARY,-,SAND,Saint Kilda Formation unit 15,-,-,134.17455,-33.046341
+IRON BLOW,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,IRONSTONE (UNDIFF. ORIGIN),hydrothermal alteration,SHALE,Wonoka Formation,138.325186,-30.815385
+NORTONS,Uranium,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,PEGMATITE (NO COMPOSITION),pegmatite,GNEISS,Rathjen Gneiss,139.156751,-34.772742
+PALMER HILL,"Gold, Copper",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GNEISS,Backstairs Passage Formation,139.159575,-34.846806
+MONSTER LODE,"Gold, Copper",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,138.923502,-35.197381
+MENKOO,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,METASEDIMENT,Tapanappa Formation,SCHIST,Tapanappa Formation,138.993969,-35.074981
+ACLAIR WEST,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-joint,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,GREYWACKE,Tapanappa Formation,138.97567,-35.123179
+MOUNT ROEBUCK SOUTH,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,DOLOMITE ROCK,Nuccaleena Formation,138.988157,-30.875546
+PINDA CREEK SOUTH,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,BRECCIA (UNDIFF. ORIGIN),breccia unit 3,138.885065,-30.785293
+WOODS,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 3,METASEDIMENT,Balquhidder Formation,138.710667,-35.424417
+WOODS ALLUVIALS,Gold,Low Significance,-,-,ALLUVIUM,Pleistocene alluvial/fluvial sediments,-,-,138.658193,-35.525002
+PETREL COVE,Heavy Minerals,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,SAND,Saint Kilda Formation unit 15,-,-,138.591481,-35.595078
+GLEN BAR,"Gold, Arsenic",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GREYWACKE,Balquhidder Formation,138.576299,-35.600813
+BRADFORDS,"Copper, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,GREYWACKE,Tapanappa Formation,138.758649,-35.330213
+MCDONALD,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GREYWACKE,Tapanappa Formation,138.436645,-35.522477
+AARONS HOLE,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Backstairs Passage Formation,138.183499,-35.645443
+CAINS,"Arsenic, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GREYWACKE,Tapanappa Formation,138.133098,-35.634796
+LADY JANE SOUTH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METAGREYWACKE,Tapanappa Formation,139.092007,-35.060966
+WHEAL PROSPER NORTH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,139.02605,-35.104357
+WHEAL PIONEER,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,GREYWACKE,Tapanappa Formation,139.027589,-35.117905
+KANMANTOO WEST,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.002299,-35.093148
+ANGAS,"Zinc, Silver, Gold, Copper, Lead",Locally Significant,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,QUARTZ-GAHNITE ROCK (METASOMATIC),Tapanappa Formation,CALCSILICATE ROCK,Tapanappa Formation,138.919616,-35.251686
+SA ARSENIC MINING CO.,Arsenic,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.028047,-35.1171
+KANMANTOO NO.3,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.005336,-35.076521
+KANMANTOO NO.1,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.011077,-35.09753
+ROCKLEIGH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Backstairs Passage Formation,139.127253,-35.012166
+RODWELL CREEK WEST,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.935014,-35.199213
+LADY JANE,"Gold, Arsenic, Copper",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.092451,-35.059249
+PREAMIMMA NORTH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.091539,-35.021121
+SMITH AND SOLOMONS,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.009512,-35.021954
+TRESEVEAN,"Copper, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.003325,-35.082716
+WHEAL FRIENDSHIP,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,GREYWACKE,Tapanappa Formation,139.031808,-35.092796
+CHAIRLIFT,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Encounter Bay Granite,138.628179,-35.563175
+SURPRISE,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,META-ARKOSE,Tapanappa Formation,138.377974,-35.584415
+BULLAPARATTA,Gold,Low Significance,-,Lithological-non specific,ALLUVIUM,Holocene alluvial/fluvial unit 1,-,-,138.410963,-35.597642
+QUARRY,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,138.953659,-35.130899
+ACLAIR NO.3,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.992282,-35.125889
+ACLAIR NO.1,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,138.990887,-35.124603
+BACK CALLINGTON,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.003237,-35.104163
+WHEAL EVERLY,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-contact,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Tapanappa Formation,138.949983,-35.189189
+BALYARTA,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.989414,-35.090772
+EMILY STAR,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Tapanappa Formation,138.996256,-35.102516
+SEDAN 74,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASANDSTONE,Carrickalinga Head Formation,139.229154,-34.51513
+KANAPPA SOUTH,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Carrickalinga Head Formation,139.217487,-34.721354
+MILENDELLA CREEK,Gold,Low Significance,-,-,ALLUVIUM,Holocene alluvial/fluvial unit 1,METASEDIMENT,Backstairs Passage Formation,139.195294,-34.807041
+O.B.Y.,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Palmer Granite,139.149499,-34.849894
+PALMER GL 1665,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Palmer Granite,139.151382,-34.853709
+PALMER,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GRANITE,Palmer Granite,139.150586,-34.850181
+DEWELLS,Gold,Low Significance,-,-,ALLUVIUM,Holocene alluvial/fluvial unit 1,METASEDIMENT,Backstairs Passage Formation,139.048627,-34.786558
+KITTICOOLA EAST,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METASEDIMENT,Backstairs Passage Formation,139.158208,-34.878597
+ACLAIR NO.4,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,138.993914,-35.126458
+WHEAL MARY,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Geochemical-contacts,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.006829,-35.087274
+MARKS AND SKINNER,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Palmer Granite,139.152002,-34.850473
+CHELLASTON,"Silver, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METASEDIMENT,Tapanappa Formation,138.914288,-35.223739
+SOUTH HILL,"Copper, Silver, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.969778,-35.108565
+BREMER,"Copper, Gold, Bismuth",Locally Significant,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 3,SCHIST,Tapanappa Formation,139.037404,-35.113557
+WONGA WONGA,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,SANDSTONE,Tapanappa Formation,139.032919,-35.096986
+WHEAL FORTUNE,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.9969,-35.107574
+PARINGA EAST,"Copper, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.992036,-35.091175
+MOUNT BARKER CREEK,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,138.952484,-35.133246
+KANMANTOO NO.2,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.009202,-35.084426
+MENGLER HILL,Gold,Low Significance,-,-,CONGLOMERATE,Miocene-Pliocene unit 2,SANDSTONE,Kanmantoo Group,139.034196,-34.537393
+WHEAL ELIZABETH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Tapanappa Formation,138.965875,-35.053686
+KANMANTOO NO.4,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.006715,-35.073929
+FRAHNS,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,139.09288,-35.076555
+KANMANTOO NORTH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tapanappa Formation,139.007967,-35.072055
+THE HORSE,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Backstairs Passage Formation,139.062366,-34.717714
+STANDISH,Gold,Low Significance,-,Lithological-contact,ALLUVIUM,Holocene alluvial/fluvial unit 2,SCHIST,Kanmantoo Group,139.05097,-34.565612
+KALTUNGA,Gold,Low Significance,-,-,ALLUVIUM,Holocene alluvial/fluvial unit 2,METASANDSTONE,Carrickalinga Head Formation,139.044999,-34.564614
+SEDAN 85,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Carrickalinga Head Formation,139.11902,-34.534852
+MONARTO 84,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Carrickalinga Head Formation,139.158173,-35.146555
+SEDAN 83,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Carrickalinga Head Formation,139.170861,-34.59055
+SEDAN 82,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Carrickalinga Head Formation,139.235369,-34.612868
+SEDAN 81,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Carrickalinga Head Formation,139.240414,-34.60636
+SEDAN 80,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Carrickalinga Head Formation,139.240276,-34.60257
+UNION MINING VENTURE,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,MARBLE,Angaston Marble,139.048467,-34.472073
+OMOND AND YOUNG,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,GRANITE,Palmer Granite,139.145346,-34.852604
+MILLBRAE,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.004718,-35.025301
+SNAKE GULLY,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SCHIST,Tapanappa Formation,139.004567,-35.045043
+BREMER 4,"Copper, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fold,VEIN (UNDIFFERENTIATED),hydrothermal alteration,METASANDSTONE,Tapanappa Formation,139.033889,-35.097906
+CHIMNEY CREEK ALLUVIALS,Gold,Low Significance,TERTIARY PALAEOCHANNELS,-,ALLUVIUM,Holocene alluvial/fluvial unit 2,SANDSTONE,Carrickalinga Head Formation,139.055165,-34.571629
+CLIFTON ALLUVIALS,Gold,Low Significance,TERTIARY PALAEOCHANNELS,Lithological-non specific,ALLUVIUM,Tertiary-Pleistocene alluvial/fluvial sediments,SILTSTONE,Carrickalinga Head Formation,139.03965,-34.53712
+POONAWURTA,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),-,-,-,LIMESTONE,Carrickalinga Head Formation,139.154675,-34.564135
+RHINE NORTH,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,GNEISS,Backstairs Passage Formation,139.178241,-34.608975
+MUELLER,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,FELSIC INTRUSIVE,Delamerian igneous unit 4,139.117387,-34.697964
+WHEAL PROSPER,"Copper, Silver, Gold",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,MARBLE,Carrickalinga Head Formation,139.213451,-34.712052
+JACOB CREEK,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Tarcowie Siltstone,139.096976,-34.522067
+HOPE,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SANDSTONE,Carrickalinga Head Formation,139.160501,-34.595622
+DEWELL,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Kanmantoo Group,139.180061,-34.667273
+CRINNIS,Copper,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Kanmantoo Group,139.035559,-34.511808
+ELEANOR,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Geochemical-fluid,GOSSAN,deep weathering,SLATE,Burra Group,138.968851,-34.791004
+BLUMBERG PROSPECTING,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Saddleworth Formation,138.971826,-34.794497
+ROBERTSONS,"Copper, Gold",Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Tarcowie Siltstone,139.271068,-32.742378
+ORAMA HILL,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Wilyerpa Formation,139.302454,-32.013384
+NACKARA REWARD,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SANDSTONE,Ulupa Siltstone,139.291241,-32.82792
+BEVERLEY,"Uranium, Uranium Oxide",Significant to SA,TERTIARY PALAEOCHANNELS,Geochemical-fluid,SAND,Namba Formation,CLAY (SEDIMENTARY),Namba Formation,139.591735,-30.191365
+GUNSIGHT,"Copper, Cobalt, Rare Earths, Uranium",Locally Significant,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Structural-fault/shear/fracture,SKARN,sheared rocks unit 1,BANDED IRON FORMATION,sheared rocks unit 1,139.647472,-30.003819
+LAMBERTS,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Appila Tillite,139.304004,-32.728631
+MOUNT BILLY A,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,METASOMATIC/THERMAL/HYDROTHERMAL ROCK,hydrothermal alteration,VOLCANICS,Wooltana Volcanics,138.765237,-31.397254
+ALEXANDER ALLUVIALS,Gold,Low Significance,TERTIARY PALAEOCHANNELS,-,ALLUVIUM,Miocene-Pliocene unit 2,SCHIST,Burra Group,138.977297,-34.77187
+BLACK DOG,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METASEDIMENT,Carrickalinga Head Formation,138.984147,-34.771191
+BLUMBERG,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,SANDSTONE,Burra Group,138.97587,-34.796647
+BLUMBERG ALLUVIALS,Gold,Low Significance,TERTIARY PALAEOCHANNELS,Other,ALLUVIUM,Miocene-Pliocene unit 2,SCHIST,Belair Subgroup,138.968444,-34.79432
+BROADBENTS ALLUVIALS,Gold,Low Significance,-,-,ALLUVIUM,Holocene alluvial/fluvial unit 1,-,-,138.984581,-34.785112
+COBRA,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Burra Group,138.98281,-34.780523
+DUSCOVITCHES GULLY,Gold,Low Significance,-,-,ALLUVIUM,Miocene-Pliocene unit 2,QUARTZITE,Burra Group,138.976101,-34.792108
+GERMANIA,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,QUARTZITE,Burra Group,138.979102,-34.780118
+HAITS,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Balquhidder Formation,138.603674,-35.537722
+CLARET,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,FAULT BRECCIA,hydrothermal alteration,CONGLOMERATE,Blue Mine Conglomerate,139.374685,-30.328522
+MOUNT NEIL,Copper,Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),Lithological-contact,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Brindana Schist,139.596241,-30.027103
+BLUMBERG BOULDER,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SCHIST,Kanmantoo Group,138.997074,-34.798974
+BLUMBERG UNITED,Gold,Low Significance,TERTIARY PALAEOCHANNELS,Structural-non specific,ALLUVIUM,Holocene alluvial/fluvial unit 2,VEIN (UNDIFFERENTIATED),quartz vein unit 4,138.980799,-34.829898
+BERLING,Gold,Low Significance,-,Structural-fault/shear/fracture,ALLUVIUM,Holocene alluvial/fluvial unit 2,METASANDSTONE,Backstairs Passage Formation,138.982765,-34.825513
+BURTONS,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,METASANDSTONE,Backstairs Passage Formation,138.982157,-34.852055
+HISCOCKS,Arsenic,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASANDSTONE,Backstairs Passage Formation,138.928388,-34.949104
+ALLEN AND DRIVER,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Kanmantoo Group,138.986803,-34.776354
+GLOVERS,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Carrickalinga Head Formation,138.987377,-34.785153
+GOLDEN CROWN NO.1,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,REGOLITH,Saddleworth Formation,138.97512,-34.790213
+GOLDEN CROWN NO.2,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Saddleworth Formation,138.977257,-34.774471
+GOLDEN CROWN NO.4,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,QUARTZITE,Saddleworth Formation,138.974947,-34.779052
+HAEUSLERS,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Backstairs Passage Formation,138.995557,-34.771605
+HYNES ALLUVIALS,Gold,Low Significance,TERTIARY PALAEOCHANNELS,Other,ALLUVIUM,Holocene alluvial/fluvial unit 1,-,-,138.969355,-34.796366
+BIRTHDAY GIFT,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,QUARTZITE,Burra Group,138.97553,-34.795011
+NAZA BAZA,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Backstairs Passage Formation,138.99735,-34.786817
+PROSPERITY,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,PHYLLITE,Carrickalinga Head Formation,138.983079,-34.771059
+YOUNG AUSTRALIAN,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Saddleworth Formation,138.98976,-34.789781
+VICTORY,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,GOSSAN,deep weathering,SLATE,Burra Group,138.971396,-34.785294
+ROSS,Gold,Low Significance,-,-,ALLUVIUM,Holocene alluvial/fluvial unit 1,-,-,138.971697,-34.787208
+PRINCE OF WALES,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SHALE,Saddleworth Formation,138.975767,-34.779148
+PIPE CLAY REEF,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,REGOLITH,Saddleworth Formation,138.973795,-34.795983
+MADDENS,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Saddleworth Formation,138.969159,-34.787421
+LUCKY HIT JUNCTION,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,QUARTZITE,Burra Group,138.975399,-34.790984
+LILIAN,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Saddleworth Formation,138.974412,-34.791863
+HIDDEN SECRET,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SLATE,Burra Group,138.97146,-34.793602
+GOLDEN HOPE,Gold,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,METASEDIMENT,Saddleworth Formation,138.970343,-34.793739
+GOLDEN CROWN NO.3,Gold,Low Significance,ADELAIDE GEOSYNCLINE,Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,UNCONSOLIDATED REGOLITH,Burra Group,138.973546,-34.791126
+BENTLEY GREENWOOD,"Uranium, Uranium Oxide",Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),Structural-fold,IRONSTONE (UNDIFF. ORIGIN),hydrothermal alteration,MIGMATITE,Corundum Creek Schist Member,139.3789,-30.217689
+UMBERATANA,Copper,Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),Structural-non specific,VEIN (UNDIFFERENTIATED),quartz vein,LIMESTONE,Opaminda Formation,139.244006,-30.202769
+INGLISTON,Copper,Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),-,-,-,-,-,139.359453,-30.134061
+GREENHILL SOUTH,Copper,Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),-,-,-,SILTSTONE,Blue Mine Conglomerate,139.352238,-30.129075
+WALLACE GULLY,"Gold, Copper",Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,ALLUVIUM,Holocene alluvial/fluvial unit 2,TILLITE,Bolla Bollana Tillite,139.332632,-30.158137
+WEALTHY KING,Copper,Low Significance,YUDNAMUTANA TROUGH (ADELAIDE GEOSYNCLINE),Structural-fault/shear/fracture,IRONSTONE (UNDIFF. ORIGIN),Opaminda Formation,SCHIST,Wooltana Volcanics,139.290302,-30.174519
+WHEAL FROST,Copper,Low Significance,ADELAIDE GEOSYNCLINE,Structural-fault/shear/fracture,TECTONITE,hydrothermal alteration,QUARTZITE,Paralana Quartzite,139.335135,-30.168948
+ERINA,"Copper, Gold",Low Significance,ADELAIDE GEOSYNCLINE,Structural-fold,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Tarcowie Siltstone,139.133759,-32.203581
+HENNIGS COMMONWEALTH,"Gold, Copper",Low Significance,ADELAIDE GEOSYNCLINE,Lithological-non specific,VEIN (UNDIFFERENTIATED),quartz vein unit 4,SILTSTONE,Appila Tillite,139.109082,-32.974247
