@@ -1,4 +1,4 @@
-Deposit Name,Deposit Commodities,Size Type Value,Geological Province,Local Ore Control,Ore Lithology,Ore Strat Name,Host Lithology,Host Strat Name,Longitude,Latitude
+Deposit_Name,Deposit_Commodities,Size_Type_Value,Geological_Province,Local_Ore_Control,Ore_Lithology,Ore_Strat_Name,Host_Lithology,Host_Strat_Name,Longitude,Latitude
 INDULKANA FAULT,Copper,Low Significance,MOORILYANNA GRABEN,Structural-fault/shear/fracture,TECTONITE,Birksgate Complex,GNEISS,Birksgate Complex,133.135293,-26.790022
 WAUKALOO,"Copper, Gold, Molybdenum",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),Lithological-non specific,ALBITE-ALTERED ROCK (SEDIMENT PRECURSOR),hydrothermal alteration,CALCSILICATE ROCK,Ethiudna Calc-silicate Group,140.397167,-31.824655
 MOORILYANNA A,Copper,Low Significance,MUSGRAVE PROVINCE,Structural-fault/shear/fracture,DOLERITE,Mesoproterozoic unit 21,GNEISS,Birksgate Complex,132.955693,-26.878699
