@@ -1,0 +1,307 @@
+DEP_NAME,COMMODS,SIZE_VAL,GEOL_PROV,O_STRAT_NM,H_STRAT_NM,LONGITUDE,LATITUDE
+KALKAROO EAST,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eyre Formation,140.6985991,-31.7389335
+JASONS,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eyre Formation,140.6435332,-31.6176235
+OBAN,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eyre Formation,140.7901892,-31.1932535
+BILLEROO,"Uranium, Uranium Oxide",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Willyama Supergroup unit 2,139.9078122,-31.9342515
+BLACKBOY,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),quartz vein,Mesoproterozoic unit 1,139.8397932,-32.0116955
+SPRING HILL,"Uranium, Gold, Uranium Oxide",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),quartz vein,Willyama Supergroup unit 1,139.7108693,-31.8259575
+CROCKER,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Mesoproterozoic unit 1,139.7855042,-32.0081045
+MOUNT VICTORIA,"Uranium, Rare Earths, Uranium Oxide",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Willyama Supergroup,139.8446852,-31.9363085
+CROCKER CENTRAL,"Uranium, Uranium Oxide",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Mesoproterozoic unit 1,139.8225942,-32.0135965
+TEWINGA,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Donington Suite,Donington Suite,135.9119457,-34.4901154
+TALLALA,Uranium,Low Significance,GAWLER CRATON,Donington Suite,Donington Suite,135.9048397,-34.5191064
+BECAROO,"Uranium, Rare Earths",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Mesoproterozoic unit 31,Mesoproterozoic unit 31,139.9038402,-31.9480195
+MINDAMEREEKA TRIG,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Willyama Supergroup,139.8979772,-32.0421635
+LADY LOUISE,"Copper, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Bimba Formation,Wiperaminga Subgroup,140.2870802,-32.1099785
+CATHEDRAL ROCK,"Copper, Uranium, Zinc",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Ethiudna Calc-silicate Group,140.3447892,-32.0883685
+BORTOLI,"Feldspar, Beryl, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Mesoproterozoic unit 1,140.1846722,-32.1002485
+AMEROO HILL,"Feldspar, Beryl, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Willyama Supergroup,140.2005872,-32.1346315
+BAXTER SOUTH,"Andalusite, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Willyama Supergroup unit 14,,140.1844332,-32.1152225
+HOSPITAL,"Uranium, Uranium Oxide",Low Significance,GAWLER CRATON,Colbert Granite,Colbert Granite,135.8483227,-34.7241314
+AINSLEE SOUTH,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Colbert Granite,Colbert Granite,135.8395077,-34.6840644
+LINCOLN FRASERS,Uranium,Low Significance,GAWLER CRATON,Wanna Megacrystic Granite Gneiss,Wanna Megacrystic Granite Gneiss,135.8404327,-34.7444674
+TAYLOR SHAFT,"Copper, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),deep weathering,Willyama Supergroup,140.6668141,-32.3204115
+YARRANNA CENTRAL,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Tertiary-Pleistocene alluvial/fluvial sediments,Tertiary-Pleistocene lacustrine sediments,134.360173,-32.0554283
+CROCKER EASTERN,"Uranium, Uranium Oxide",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Crocker Well Suite,139.8334612,-32.0115675
+GOULDS DAM,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Eyre Formation,Eyre Formation,139.9493353,-31.4707135
+HONEYMOON,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Eyre Formation,Eyre Formation,140.6619331,-31.7420275
+TALBOT CREEK,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Mesoproterozoic unit 1,Mesoproterozoic unit 1,139.8432852,-31.9210525
+WINDAMERTA,"Copper, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Mesoproterozoic unit 1,139.8217632,-31.9250175
+BRISTOWES,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Willyama Supergroup,140.6504051,-32.3383915
+CROCKER SOUTH,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Mesoproterozoic unit 1,139.8054462,-32.0296015
+CROCKER JUNCTION,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),quartz vein,Willyama Supergroup,139.8037772,-32.0181335
+BANTU,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Donington Suite,Donington Suite,135.8839387,-34.5194484
+LOMAX,"Uranium, Uranium Oxide",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Wanna Megacrystic Granite Gneiss,Wanna Megacrystic Granite Gneiss,135.8449207,-34.7225314
+DAVEY WOLLASTON,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Wanna Megacrystic Granite Gneiss,Wanna Megacrystic Granite Gneiss,135.8244807,-34.7318694
+SOUTH HILL,Uranium,Low Significance,CURNAMONA PROVINCE,hydrothermal alteration,Willyama Supergroup unit 1,140.6413201,-32.3518975
+WINDAMERTA EAST,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Willyama Supergroup,139.8077672,-31.9353825
+WINDAMERTA WEST,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Willyama Supergroup,139.7976573,-31.9403425
+JAGGED ROCKS,"Uranium, Uranium Oxide",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),Willyama Supergroup unit 1,Willyama Supergroup,139.7545913,-31.8904425
+CROCKER ORIGINAL,"Uranium, Thorium, Uranium Oxide",Locally Significant,WILLYAMA INLIERS (CURNAMONA PROVINCE),Crocker Well Suite,Crocker Well Suite,139.8019562,-32.0129525
+FLACHUBER,"Feldspar, Beryllium, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Willyama Supergroup,140.1450252,-32.0671505
+ETHIUDNA MAIN SHAFT,"Copper, Cobalt, Uranium, Wollastonite",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Willyama Supergroup,139.8376292,-32.0497895
+EALBARA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Tertiary-Pleistocene alluvial/fluvial sediments,Pidinga Formation,134.5271241,-30.4072353
+WARRIOR,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Tertiary-Pleistocene alluvial/fluvial sediments,Pidinga Formation,134.0286771,-30.6063473
+COONDAPPIE,Uranium,Low Significance,FROME EMBAYMENT (EROMANGA BASIN),Eyre Formation,,139.7447073,-31.6057415
+DOMENIC,"Feldspar, Beryl, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Mesoproterozoic unit 1,140.1791592,-32.1004845
+TOMMY WATTIE WEST,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Willyama Supergroup unit 14,140.1390912,-32.1124865
+YANINEE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Tertiary-Pleistocene alluvial/fluvial sediments,Tertiary-Pleistocene lacustrine sediments,135.1920999,-33.0714873
+HARROGATE,"Lead, Uranium",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),quartz vein,Brukunga Formation,139.0094022,-34.9405425
+NORTONS,Uranium,Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),pegmatite,Rathjen Gneiss,139.1567512,-34.7727415
+MINBRIE WEST,"Talc, Asbestos, Marble, Opal, Uranium",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Katunga Dolomite,136.8512086,-33.6086604
+BEVERLEY,"Uranium, Uranium Oxide",Significant to SA,TERTIARY PALAEOCHANNELS,Namba Formation,Namba Formation,139.5917354,-30.1913655
+GUNSIGHT,"Copper, Cobalt, Rare Earths, Uranium",Locally Significant,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),sheared rocks unit 1,sheared rocks unit 1,139.6474724,-30.0038185
+SOUTH RIDGE,"Tin, Silver, Copper, Lead, Uranium, Zinc",Significant to SA,ADELAIDE GEOSYNCLINE,hydrothermal alteration,Petermorra Volcanics,139.5312594,-29.7917895
+YERILA,"Cobalt, Rare Earths, Thorium, Uranium",Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),hydrothermal alteration,Yerila Granite,139.5381154,-29.8822795
+SHAMROCK,"Copper, Uranium, Uranium Oxide",Low Significance,ADELAIDE GEOSYNCLINE,quartz vein unit 4,Wooltana Volcanics,139.3674784,-30.1501885
+COMMONWEALTH,"Copper, Silver, Uranium",Low Significance,ADELAIDE GEOSYNCLINE,hydrothermal alteration,Wywyana Formation,139.3575904,-30.1849095
+PARALANA HOT SPRINGS,"Uranium, Copper",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Nooldoonooldoona Trondhjemite,Nooldoonooldoona Trondhjemite,139.4415624,-30.1751585
+BRITISH EMPIRE,"Copper, Uranium",Low Significance,ADELAIDE GEOSYNCLINE,quartz vein,Corundum Creek Schist Member,139.4045594,-30.1727105
+HODGKINSON,"Uranium, Copper, Uranium Oxide",Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),quartz vein unit 4,sheared rocks,139.4228374,-30.1856535
+ARMCHAIR,"Uranium, Copper, Rare Earths, Uranium Oxide",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3628224,-30.2039295
+SMILER GREENWOOD,Uranium,Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3654024,-30.2109355
+BENTLEY GREENWOOD,"Uranium, Uranium Oxide",Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),hydrothermal alteration,Corundum Creek Schist Member,139.3789004,-30.2176895
+PLUMBUSH,"Uranium, Uranium Oxide",Significant to SA,PIRIE BASIN,Kanaka beds,Kanaka beds,137.3719915,-33.2417684
+MOUNT SHANAHAN,Uranium,Low Significance,ADELAIDE GEOSYNCLINE,quartz vein,Freeling Heights Quartzite,139.3829004,-30.0744595
+GLENCOE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eyre Formation,140.7571822,-30.7992425
+RAILWAY,Uranium,Low Significance,CURNAMONA PROVINCE,hydrothermal alteration,Delamerian igneous unit 9,140.6424141,-32.3437815
+SOUTH HILL EXTENDED,Uranium,Low Significance,CURNAMONA PROVINCE,Willyama Supergroup,Tertiary rocks,140.6318491,-32.3547575
+ROCKY RIDGE,Uranium,Low Significance,CURNAMONA PROVINCE,quartz vein,Willyama Supergroup,140.6365161,-32.3572965
+HARRYS,Uranium,Low Significance,CURNAMONA PROVINCE,quartz vein,Willyama Supergroup,140.6375691,-32.3595545
+RADIUM HILL WEST,Uranium,Low Significance,CURNAMONA PROVINCE,hydrothermal alteration,Willyama Supergroup unit 1,140.6350961,-32.3402425
+INTERMEDIATE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Pooraka Formation,140.6466821,-32.3392835
+RADIUM HILL NORTH,Uranium,Low Significance,CURNAMONA PROVINCE,quartz vein,Willyama Supergroup unit 1,140.6525581,-32.3311805
+BONYTHON NORTH,Uranium,Low Significance,CURNAMONA PROVINCE,quartz vein,Willyama Supergroup unit 1,140.6650591,-32.3121795
+ACROPOLIS,"Copper, Gold, Iron, Rare Earths, Uranium",Locally Significant,GAWLER CRATON,skarn,Gawler Range Volcanics,136.7485907,-30.6206854
+CARAPPEE HILL,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Carappee Granite,Carappee Granite,136.2629177,-33.4329504
+HORSE WELL,"Copper, Uranium",Low Significance,GAWLER CRATON,hydrothermal alteration,Gawler Range Volcanics,137.0505887,-30.9372164
+TORRENS,"Copper, Silver, Uranium",Low Significance,GAWLER CRATON,quartz vein,Palaeoproterozoic rocks,137.6526246,-30.7803904
+OLYMPIC DAM,"Copper, Silver, Gold, Iron, Rare Earths, Uranium, Uranium Oxide",World-wide Significance,GAWLER CRATON,Olympic Dam Breccia Complex,Roxby Downs Granite,136.8893697,-30.4403264
+OLYMPIC DAM,"Copper, Silver, Gold, Iron, Rare Earths, Uranium, Uranium Oxide",World-wide Significance,GAWLER CRATON,,,136.8893697,-30.4403264
+OLYMPIC DAM,"Copper, Silver, Gold, Iron, Rare Earths, Uranium, Uranium Oxide",World-wide Significance,GAWLER CRATON,,,136.8893697,-30.4403264
+LAST CHANCE,"Copper, Uranium",Low Significance,PEAKE AND DENISON INLIERS,hydrothermal alteration,Duff Creek beds,135.9607879,-28.5778063
+MOUNT KINGSTON,"Copper, Uranium",Low Significance,PEAKE AND DENISON INLIERS,quartz vein unit 4,Wirriecurrie Granite,135.879349,-28.0387663
+EMMIE NORTH,"Copper, Uranium",Low Significance,STUART SHELF,hydrothermal alteration,Palaeoproterozoic rocks,137.1303887,-31.0899174
+OLYMPIC DAM,"Copper, Silver, Gold, Iron, Rare Earths, Uranium, Uranium Oxide",World-wide Significance,GAWLER CRATON,,,136.8893697,-30.4403264
+MANXMAN A1,"Iron, Gold, Copper, Uranium",Locally Significant,MOUNT WOODS INLIER,hydrothermal alteration,Mount Woods Complex,135.391986,-29.6699523
+TELEPHONE DAM,"Lead, Silver, Uranium, Zinc",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Sleaford Complex,136.5677957,-32.6863124
+VALLEY LODE,Uranium,Low Significance,CURNAMONA PROVINCE,hydrothermal alteration,Willyama Supergroup unit 1,140.6371801,-32.3505325
+ULTIMA DAM WEST,"Iron, Tin, Uranium, Tungsten",Locally Significant,CLEVE SUBDOMAIN (GAWLER CRATON),Hutchison Group,Hutchison Group,136.4403397,-32.7194094
+EAST PAINTER NO.3,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Corundum Creek Schist Member,139.3796984,-30.2279805
+EAST PAINTER NO.4,"Uranium, Molybdenum",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Corundum Creek Schist Member,139.3840034,-30.2296615
+MOUNT WARD,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3704014,-30.2055495
+EAST PAINTER NO.5,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Corundum Creek Schist Member,139.3869304,-30.2253675
+EAST PAINTER NO.5A,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),quartz vein,Radium Creek Group unit 2,139.3876134,-30.2249245
+MOUNT GEE EAST,"Uranium, Rare Earths",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3485674,-30.2237165
+MOUNT GEE,"Uranium, Uranium Oxide",Locally Significant,ADELAIDE GEOSYNCLINE,Radium Ridge beds,Radium Ridge Breccias,139.3404714,-30.2232535
+GUM TREE,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),quartz vein,Radium Creek Metamorphics,139.3285634,-30.2393425
+HAWTHORN,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),quartz vein,Radium Creek Metamorphics,139.4037394,-30.1913775
+HEMATITE VALLEY,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),quartz vein,Radium Creek Metamorphics,139.4216204,-30.1773385
+MOUNT PAINTER NO.1,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Ridge Breccias,Radium Ridge Breccias,139.3305374,-30.2201385
+MOUNT PAINTER NO.2,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Ridge Breccias,Radium Ridge Breccias,139.3307554,-30.2205925
+MOUNT PAINTER NO.3,"Uranium, Uranium Oxide",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3279334,-30.2202985
+MOUNT PAINTER NO.4,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3415384,-30.2277775
+MOUNT PAINTER NO.5,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Ridge Breccias,Radium Ridge Breccias,139.3346274,-30.2248035
+MOUNT PAINTER NO.6,"Uranium, Radium, Uranium Oxide",Low Significance,ADELAIDE GEOSYNCLINE,hydrothermal alteration,Radium Creek Metamorphics,139.3380824,-30.2355835
+MOUNT PAINTER NO.7,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Corundum Creek Schist Member,139.3306164,-30.2346765
+MOUNT PAINTER NO.8,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Creek Metamorphics,Radium Creek Metamorphics,139.3338574,-30.2273195
+OSULLIVANS,Uranium,Low Significance,MOUNT BABBAGE INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Creek Metamorphics,139.4211064,-30.1834675
+ECHIDNA,Uranium,Low Significance,YUDNAMUTANA TROUGH (ADELAIDE GEOSYNCLINE),hydrothermal alteration,Radium Ridge Breccias,139.3656904,-30.1935255
+RADIUM RIDGE,"Uranium, Uranium Oxide",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3224624,-30.2192345
+ROLLING STONE,Uranium,Low Significance,MOUNT BABBAGE INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Creek Group unit 3,139.4122804,-30.1833605
+NINNERIE CREEK,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Mesoproterozoic unit 10,139.8499792,-31.9826355
+NINNERIE HILL,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),hydrothermal alteration,Mesoproterozoic unit 10,139.8808732,-31.9748825
+NINNERIE SUMMIT,Uranium,Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),quartz vein,Mesoproterozoic unit 10,139.8753442,-31.9856585
+HORN,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),quartz vein,Radium Creek Metamorphics,139.4089904,-30.1942385
+BILLS FOLLY,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Creek Metamorphics,139.3595434,-30.2197035
+NINNERIE DAM,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),quartz vein,Mesoproterozoic unit 10,139.8444972,-31.9977405
+BLACKBUSH,"Uranium, Uranium Oxide",Significant to SA,COWELL SUB-BASIN (PIRIE BASIN),Kanaka beds,Kanaka beds,137.4029325,-33.1960904
+FAIRVIEW,"Phosphate, Uranium",Low Significance,ADELAIDE GEOSYNCLINE,deep weathering,Skillogalee Dolomite unit 6,139.1261462,-33.8463485
+STREITBERG RIDGE,"Uranium, Uranium Oxide",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3723504,-30.2029235
+TURQUOISE,Uranium,Low Significance,ADELAIDE GEOSYNCLINE,hydrothermal alteration,Radium Creek Group unit 5,139.3824404,-30.2020135
+EAST PAINTER NO.1,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Corundum Creek Schist Member,139.3825914,-30.2270275
+EAST PAINTER NO.2,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Corundum Creek Schist Member,139.3844674,-30.2266905
+MONAZITE HILL,Uranium,Low Significance,MOUNT BABBAGE INLIER (CURNAMONA PROVINCE),quartz vein,Radium Creek Metamorphics,139.4355404,-30.1703875
+BRECCIA NOB,Uranium,Low Significance,MOUNT BABBAGE INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Creek Metamorphics,139.3954434,-30.1969605
+NINNERIE,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),quartz vein,Mesoproterozoic unit 11,139.8267682,-31.9518415
+MOUNT VICTORIA WELL,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),quartz vein,Mesoproterozoic unit 11,139.8296332,-31.9762245
+VICTORIA HUT,Uranium,Low Significance,CURNAMONA PROVINCE,quartz vein,Willyama Supergroup unit 1,139.6654373,-31.8380925
+COCKABIDNIE,Uranium,Low Significance,ITILEDOO BASIN,Tertiary-Pleistocene regolith/colluvial sediments,Blue Range beds,136.2879067,-33.5378424
+OLD HILLSIDE,"Copper, Gold, Iron, Uranium",Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),Wallaroo Group,Wallaroo Group,137.8701114,-34.5301154
+DARK HORSE,"Copper, Uranium, Zinc",Low Significance,ADELAIDE GEOSYNCLINE,hydrothermal alteration,Umberatana Group,140.3879701,-32.6486115
+PENANG,"Copper, Uranium",Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),quartz vein unit 4,Palaeoproterozoic-Mesoproterozoic rocks,137.7117104,-34.1377214
+HERMITAGE,"Uranium, Platinoids",Low Significance,HOUGHTON INLIER (MT LOFTY RANGES INLIERS),deep weathering,Houghton Diorite,138.7717722,-34.8098925
+INGLEWOOD,"Platinoids, Uranium",Low Significance,HOUGHTON INLIER (MT LOFTY RANGES INLIERS),Barossa Complex,Houghton Diorite,138.7703392,-34.8260605
+ALGEBUCKINA,"Copper, Uranium",Low Significance,PEAKE AND DENISON INLIERS,quartz vein unit 4,Peake Metamorphics unit 1,135.794597,-27.9020923
+LESLIE,"Talc, Uranium",Low Significance,ADELAIDE GEOSYNCLINE,Balcanoona Formation,Balcanoona Formation,139.4742654,-29.9308235
+YARRANNA NORTH,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eocene rocks,134.369631,-32.0088933
+YARRANNA SOUTH,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eocene rocks,134.358598,-32.0914153
+YARRANNA SE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eocene rocks,134.495543,-32.0959143
+BENBUY SE,Uranium,Low Significance,ITILEDOO BASIN,quartz vein,Katunga Dolomite,136.6515086,-33.7421224
+BENBUY,"Uranium, Graphite",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Katunga Dolomite,Katunga Dolomite,136.6321436,-33.7170404
+CALCOOKRA,"Copper, Uranium",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Cook Gap Schist unit 1,136.7259086,-33.6193644
+COPPER TOP R1,Uranium,Low Significance,PEAKE AND DENISON INLIERS,Tertiary-Pleistocene weathering,Tertiary rocks,135.948853,-28.1103353
+COCK HILL,"Zinc, Uranium",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Katunga Dolomite,136.6322816,-33.6901644
+COPPER TOP WEST,"Copper, Uranium",Low Significance,PEAKE AND DENISON INLIERS,quartz vein unit 4,Baltucoodna Quartzite unit 1,135.923051,-28.1287443
+YALPOODNIE,"Copper, Silver, Lead, Uranium, Zinc",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Coolanie Gneiss,136.7569976,-33.6269524
+POONANA,"Lead, Silver, Copper, Uranium, Zinc",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Cook Gap Schist,136.5171396,-33.6808644
+UNO STATION,"Uranium, Thorium",Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Corunna Conglomerate,136.6892767,-32.6353994
+PROMINENT HILL,"Copper, Silver, Gold, Uranium",Significant to SA,MOUNT WOODS INLIER,Gawler Range Volcanics,Mount Woods Complex,135.5776179,-29.7184253
+GOLDEN GATE,"Gold, Lead, Uranium, Zinc",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),skarn,Hutchison Group,136.4622197,-32.6871364
+PROMINENT HILL,"Copper, Silver, Gold, Uranium",Significant to SA,MOUNT WOODS INLIER,,,135.5776179,-29.7184253
+PROMINENT HILL,"Copper, Silver, Gold, Uranium",Significant to SA,MOUNT WOODS INLIER,,,135.5776179,-29.7184253
+KATTATA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eocene rocks,134.9200309,-33.0131583
+WILD DOG,"Uranium, Uranium Oxide",Low Significance,MOUNT LOFTY RANGES INLIERS,hydrothermal alteration,Archaean rocks,138.4388252,-35.4361175
+MOUNT DISTANCE,Uranium,Low Significance,,hydrothermal alteration,Jurassic rocks,139.0449875,-29.9341765
+KALABITY KR4,Uranium,Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),quartz vein,Mesoproterozoic unit 1,140.4112372,-31.9167365
+GROGANS BLUFF,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Moolawatana Suite unit 3,Radium Creek Metamorphics,139.4101504,-30.1931695
+CARRAPATEENA,"Copper, Silver, Gold, Rare Earths, Uranium, Uranium Oxide",Significant to SA,GAWLER CRATON,Donington Suite,Donington Suite,137.4963096,-31.2193554
+VULCAN IOCG,"Copper, Gold, Uranium",Locally Significant,GAWLER CRATON,skarn,Palaeoproterozoic rocks,137.0133427,-30.1749004
+STRATHNEATH,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,136.0216857,-33.3263104
+CHALLENGER,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,133.5590152,-29.8618463
+PEAKE CREEK,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,135.804824,-28.0588113
+LONG CREEK,Uranium,Low Significance,COOBER PEDY RIDGE (ARCKARINGA BASIN),hydrothermal alteration,Mulgathing Complex unit 6,134.4702891,-29.2507063
+DONLEY,"Heavy Minerals, Uranium",Low Significance,TERTIARY PALAEOCHANNELS,Tertiary rocks,,135.6187797,-34.5083644
+YADGLIN,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary-Pleistocene lacustrine sediments,139.6365364,-30.0756215
+WATSON,Uranium,Low Significance,EUCLA BASIN AND PALAEODRAINAGE,hydrothermal alteration,Tertiary rocks,131.9810714,-30.8825963
+SUGARLOAF HILL,"Graphite, Manganese, Uranium",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Middleback Subgroup,Middleback Subgroup,136.3179677,-33.4669194
+AKERINGA,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lower Middleback Jaspilite,Hutchison Group,136.4687636,-33.7108844
+TENT HILL,Uranium,Low Significance,,Marree Formation,Marree Formation,138.8608075,-30.0208864
+APOLLINARIS,Uranium,Low Significance,ADELAIDE GEOSYNCLINE,Marree Formation,Marree Formation,138.8229675,-30.0075574
+KARANA,"Silver, Gold, Uranium",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),quartz vein unit 4,Tournefort Metadolerite,135.3582918,-33.9402463
+TUCKEY,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,136.0945037,-33.6579504
+NETHERLEIGH PARK,"Copper, Uranium",Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),Wallaroo Group,Palaeoproterozoic rocks,137.8563844,-33.7899854
+PEELA SWAMP,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,134.746079,-30.6090943
+MOUNT KINGSTON WEST,Uranium,Low Significance,PEAKE AND DENISON INLIERS,Peake Metamorphics unit 1,Peake Metamorphics unit 1,135.849008,-28.0369863
+MACDONNELL CREEK,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Eyre Formation,Eyre Formation,139.4517844,-29.5506805
+ENGENINA CREEK,Uranium,Low Significance,MOUNT WOODS INLIER,Mount Woods Complex,Mount Woods Complex,135.126566,-29.3080153
+KEMMISS,Uranium,Low Significance,MYPONGA INLIER (MT LOFTY RANGES INLIERS),quartz vein,Barossa Complex,138.3834362,-35.4599505
+PRICE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Tertiary-Pleistocene alluvial/fluvial sediments,Tertiary rocks,137.9522894,-34.3214654
+HAWTHORN SW,Uranium,Low Significance,CURNAMONA PROVINCE,Radium Creek Metamorphics,Radium Creek Metamorphics,139.4015384,-30.1926135
+HEMATITE VALLEY NORTH,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Ridge Breccias,Radium Ridge Breccias,139.4223394,-30.1713015
+PARALANA PLATEAU,Uranium,Low Significance,CURNAMONA PROVINCE,Radium Creek Metamorphics,Radium Creek Metamorphics,139.4522254,-30.1592965
+NARLABY,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary-Pleistocene rocks,135.3805988,-32.8834313
+PINKAWILLINIE KO11S,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Sleaford Complex,Sleaford Complex,135.8004088,-33.0604974
+LAKE NAMBA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Namba Formation,Namba Formation,140.2924302,-31.2409225
+LAKE TINKO,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,140.2085912,-31.2205845
+ARMCHAIR WEST,Uranium,Low Significance,CURNAMONA PROVINCE,Mount Neill Granite,Mount Neill Granite,139.3220274,-30.2081315
+ARMCHAIR CREEK EAST,Uranium,Low Significance,CURNAMONA PROVINCE,Radium Ridge Breccias,Radium Ridge Breccias,139.3524354,-30.2192745
+HAND,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Nooldoonooldoona Trondhjemite,Nooldoonooldoona Trondhjemite,139.3288784,-30.2698415
+JACOB CREEK,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Eocene rocks,Eocene rocks,139.6860464,-29.6472345
+BROOKS DAM,"Uranium, Uranium Oxide",Locally Significant,LAKE EYRE BASIN,hydrothermal alteration,Eyre Formation,140.6516451,-31.7321375
+HOPPING JACK WELL,"Zinc, Silver, Copper, Lead, Uranium",Low Significance,COULTA SUBDOMAIN (GAWLER CRATON),quartz vein,Archaean rocks,135.4920868,-33.8355254
+HILLVIEW,"Copper, Uranium",Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),quartz vein,Doora Schist,137.6868044,-34.2036724
+VOCK,"Copper, Gold, Uranium",Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Oorlano Metasomatite,137.7893754,-33.7012774
+KALKAROO WEST,"Copper, Gold, Rare Earths, Uranium",Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),hydrothermal alteration,Ethiudna Subgroup,140.4826502,-31.7491565
+TARLINGA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Polda Formation,Polda Formation,135.7876988,-33.6611884
+PINE RIDGE,Uranium,Low Significance,ADELAIDE GEOSYNCLINE,quartz vein unit 1,Woolshed Flat Shale,138.9270072,-34.7659865
+BEVERLEY NORTH,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,Eyre Formation,Eyre Formation,139.5757964,-30.1006925
+ETHIOPIA,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Miltalie Gneiss,Hutchison Group,136.6428446,-33.3022424
+PUNDINYA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Tertiary-Pleistocene alluvial/fluvial sediments,Pidinga Clay,133.7433222,-30.4164083
+KOPPIO AREA,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Lincoln Complex,Hutchison Group,135.8002807,-34.4070304
+FORESTER BORE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Namba Formation,Namba Formation,139.6460473,-31.3575505
+CAPRA,"Uranium, Copper",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Mount Gee Formation,139.3544714,-30.2092195
+RADIUM RIDGE EAST,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),hydrothermal alteration,Radium Ridge Breccias,139.3345364,-30.2178545
+EPSILON,Uranium,Low Significance,MOUNT WOODS INLIER,skarn,Mount Woods Complex,135.49004,-29.7090643
+TRITON,"Copper, Gold, Uranium",Low Significance,MOUNT WOODS INLIER,Olympic Dam Formation,Gawler Range Volcanics,135.6298389,-29.7468283
+POONDOOMA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,137.0508196,-33.4938414
+MUTOOROO,Uranium,Low Significance,ADELAIDE GEOSYNCLINE,hydrothermal alteration,Burra Group,140.8524911,-32.5489826
+BOOLCOOMATA,Uranium,Low Significance,CURNAMONA PROVINCE,quartz vein,Mesoproterozoic unit 1,140.3038372,-32.0387125
+TINTINARA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Quaternary alluvial/fluvial sediments,Quaternary rocks,140.0754439,-35.8569645
+WEAMPA,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Olney Formation,Olney Formation,140.2425519,-36.2870066
+ENUNGARENNA HILL,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Hooray Sandstone,134.0720082,-26.5629863
+ULYSSES,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Tertiary-Pleistocene regolith/colluvial sediments,Palaeoproterozoic rocks,135.5875938,-32.9518163
+DRIVER RIVER,Uranium,Low Significance,GAWLER CRATON,Tertiary-Pleistocene regolith/colluvial sediments,Blue Range beds,136.2519977,-33.7794674
+MOUNT HILL,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Hutchison Group,,136.1047587,-33.9980834
+BOOTHBY,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Miltalie Gneiss,,136.5485386,-33.7546394
+DEAD HORSE BAY,Uranium,Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Oorlano Metasomatite,137.8845454,-34.5506874
+IDA DAM,Uranium,Low Significance,PIRIE-TORRENS BASIN,Tertiary rocks,,138.2242925,-30.8682284
+TABITA,Uranium,Low Significance,,hydrothermal alteration,Tertiary-Pleistocene rocks,140.3901072,-31.8933365
+JUNGLE DAM,"Uranium, Manganese",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Hutchison Group,136.6185257,-32.8552294
+VICTORY,"Uranium, Copper, Rare Earths",Low Significance,PEAKE AND DENISON INLIERS,quartz vein,Callanna Group,135.9816079,-28.5308863
+KHAMSIN,"Copper, Silver, Gold, Uranium, Uranium Oxide",Significant to SA,GAWLER CRATON,skarn,Donington Suite,137.4061556,-31.1818404
+PRAIRIE DAM,"Uranium, Uranium Oxide",Low Significance,MURRAY BASIN,Knight Group,,139.9793172,-33.0394965
+JONES DAM,Uranium,Locally Significant,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,140.8360161,-32.6474706
+ONE GUM BORE,Uranium,Low Significance,,Tertiary rocks,,139.5595643,-31.3329545
+SAFFRON,"Uranium, Uranium Oxide",Locally Significant,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Eyre Formation,140.8416521,-31.7370256
+VALLEY,"Uranium, Uranium Oxide",Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),quartz vein unit 3,Wywyana Formation,139.3647644,-30.1489425
+WIRRDA WELL,"Copper, Gold, Uranium",Locally Significant,GAWLER CRATON,Gawler Range Volcanic Complex,Donington Suite,136.9504757,-30.6487564
+ZEALOUS,"Lead, Tin, Uranium, Zinc",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Hutchison Group,Hutchison Group,136.5205247,-32.6535224
+SANDIOOTA,Uranium,Low Significance,,Tertiary rocks,,139.8135633,-31.3022635
+SCOTT LEE,"Copper, Gold, Uranium",Low Significance,MOUNT BABBAGE INLIER (CURNAMONA PROVINCE),Mesoproterozoic rocks,Terrapinna Granite,139.6058964,-29.9409885
+NEPTUNE,"Copper, Gold, Uranium",Low Significance,MOUNT WOODS INLIER,Olympic Dam Formation,Gawler Range Volcanics,135.6375799,-29.7443093
+BASIL ROESLERS,"Metasiltstone, Uranium",Low Significance,KANMANTOO TROUGH (ADELAIDE GEOSYNCLINE),Backstairs Passage Formation,,139.0687922,-34.6479415
+CHICK IN GREEN,"Feldspar, Beryl, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Willyama Supergroup,140.1822822,-32.1068195
+WATTLEOWIE,"Thorium, Uranium",Low Significance,CURNAMONA CRATON (CURNAMONA PROVINCE),quartz vein unit 4,Mount Neill Granite,139.6787744,-29.9573955
+CROCKER,"Thorium, Uranium",Low Significance,CURNAMONA PROVINCE,Crocker Well Adamellite,,139.8070032,-32.0238245
+CAMPOONA SHAFT,"Graphite, Uranium",Locally Significant,CLEVE SUBDOMAIN (GAWLER CRATON),Mangalo Schist,Mangalo Schist,136.4790137,-33.5278714
+BIRKSGATE,"Copper, Graphite, Silver, Gold, Molybdenum, Uranium, Vanadium",Low Significance,CURNAMONA PROVINCE,hydrothermal alteration,Willyama Supergroup,140.3638892,-31.3114915
+GEORGE CREEK,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Eyre Formation,Eyre Formation,139.3478705,-29.5945455
+SEAHAM,Uranium,Low Significance,,hydrothermal alteration,Eocene-Pleistocene regolith/colluvial unit 1,137.5666077,-30.0733864
+GAIRLOCH,Uranium,Locally Significant,TERTIARY PALAEOCHANNELS,hydrothermal alteration,Tertiary rocks,140.6753101,-32.7121075
+LAMBERTS,Uranium,Low Significance,MURRAY BASIN,Miocene-Pleistocene alluvial/fluvial sediments,,140.961112,-32.5925446
+BIRKSGATE,"Copper, Graphite, Silver, Gold, Molybdenum, Uranium, Vanadium",Low Significance,CURNAMONA PROVINCE,hydrothermal alteration,Willyama Supergroup,140.3638892,-31.3114915
+BONYTHON EAST,Uranium,Low Significance,CURNAMONA PROVINCE,quartz vein,Willyama Supergroup unit 1,140.6689831,-32.3139935
+BONYTHON SOUTH,Uranium,Low Significance,CURNAMONA PROVINCE,quartz vein,Willyama Supergroup unit 1,140.6652601,-32.3154275
+BOOLCOOMATA GK1,"Thorium, Rare Earths, Rutile, Uranium",Locally Significant,CURNAMONA CRATON (CURNAMONA PROVINCE),quartz vein unit 3,Willyama Supergroup,140.2392442,-31.8703605
+PANNIKAN,Uranium,Locally Significant,,Eyre Formation,,139.5573034,-30.1165065
+MOUNT OLINTHUS,"Manganese, Dolomite, Thorium, Uranium",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),deep weathering,Katunga Dolomite,136.7867076,-33.5890974
+EAST PAINTER D,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Creek Metamorphics,Radium Creek Metamorphics,139.3803404,-30.2249245
+EAST PAINTER C,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Creek Metamorphics,Radium Creek Metamorphics,139.3798724,-30.2217615
+EAST PAINTER B,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Creek Metamorphics,Radium Creek Metamorphics,139.3798724,-30.2217615
+EAST PAINTER A,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Creek Metamorphics,Radium Creek Metamorphics,139.3782774,-30.2208395
+LAKE KROONILLA,"Radium, Gypsum, Uranium",Low Significance,,Quaternary lacustrine/playa unit 1,,132.6613803,-31.5483653
+MITCHERIE,Uranium,Low Significance,,Tertiary rocks,,132.7892853,-31.4524193
+INDOOROOPILLY SOUTH,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Pidinga Formation,,133.2940712,-29.9065083
+KANGAROO CREEK EAST,Uranium,Low Significance,MOUNT LOFTY RANGES INLIERS,Barossa Complex,Barossa Complex,138.7855272,-34.8666175
+HALF MOON LAKE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Pidinga Formation,,133.5908632,-30.0115253
+FRANKLIN,Uranium,Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Hiltaba Suite,,137.2520065,-33.5481904
+ALBERGA RIVER,Uranium,Low Significance,EROMANGA BASIN,Jurassic rocks,Jurassic rocks,133.5992643,-26.7987123
+MOUNT JOHN EAST,Uranium,Low Significance,ADELAIDE GEOSYNCLINE,Parachilna Formation,Parachilna Formation,139.1539094,-30.9859615
+KATCHIWILLEROO,Uranium,Low Significance,,Eyre Formation,,139.9177993,-31.4395965
+RADFORD CREEK NORTH,"Copper, Rare Earths, Uranium",Low Significance,ADELAIDE GEOSYNCLINE,Parachilna Formation,Wonoka Formation,138.2150075,-32.0363964
+EAST PAINTER H,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Ridge Breccias,Radium Ridge Breccias,139.3842904,-30.2279515
+EAST PAINTER G,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Ridge Breccias,Radium Ridge Breccias,139.3867434,-30.2272595
+EAST PAINTER F,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Ridge Breccias,Radium Ridge Breccias,139.3891504,-30.2230035
+EAST PAINTER E,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),Radium Ridge Breccias,Radium Ridge Breccias,139.3892344,-30.2242225
+JERAMS SOUTH,Uranium,Low Significance,MOUNT PAINTER INLIER (CURNAMONA PROVINCE),quartz vein,Freeling Heights Quartzite,139.5036774,-30.0333155
+KARANNA,"Uranium, Kaolin, Peat",Low Significance,,Tertiary rocks,,135.6495278,-34.0051964
+MILLBROOK NORTH,Uranium,Low Significance,MOUNT LOFTY RANGES INLIERS,Barossa Complex,,138.8021372,-34.8320865
+ARROWIE GORGE EAST,"Manganese, Copper, Uranium",Low Significance,ADELAIDE GEOSYNCLINE,ironstone,Wilkawillina Limestone,139.2459504,-30.7270105
+KINLOCH DAM,Uranium,Low Significance,MURRAY BASIN,hydrothermal alteration,Tertiary rocks,140.7543271,-32.6917466
+VANSTONES,"Copper, Gold, Uranium",Low Significance,STUART SHELF,hydrothermal alteration,Beda Basalt,137.9284934,-33.3754094
+RED BANKS,Uranium,Low Significance,,Eyre Formation,,139.1775295,-29.4271955
+GORGE URANIUM,Uranium,Low Significance,MOUNT LOFTY RANGES INLIERS,Barossa Complex,,138.8078922,-34.8405195
+FOUR MILE EAST,"Uranium, Uranium Oxide",Significant to Australia,FROME EMBAYMENT (EROMANGA BASIN),Arrowie Formation,Arrowie Formation,139.5282174,-30.1366665
+MOORARI,Uranium,Low Significance,,Tertiary rocks,,140.1283245,-27.5499915
+BIG LAKE 20,Uranium,Low Significance,COOPER BASIN,Namba Formation,Namba Formation,140.3398874,-28.2008665
+CHALKER DAM,"Uranium, Uranium Oxide",Low Significance,MURRAY BASIN,Knight Group,,140.4309071,-32.9918865
+MULGA DAM,Uranium,Low Significance,MURRAY BASIN,Miocene rocks,,140.6477771,-32.6638665
+CORROBINNIE,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Tertiary-Pleistocene alluvial/fluvial sediments,Tertiary-Pleistocene alluvial/fluvial sediments,135.9233008,-32.8266354
+YANDAMA CREEK,Uranium,Low Significance,FROME EMBAYMENT (EROMANGA BASIN),Eyre Formation,,140.7390473,-29.8758765
+BIG LAKE 28,Uranium,Low Significance,COOPER BASIN,Namba Formation,Namba Formation,140.3087474,-28.2118865
+MOOKWARINNA,"Uranium Oxide, Uranium",Locally Significant,,Eyre Formation,,138.7080445,-29.5849344
+MUMPIE,Uranium,Low Significance,,Eyre Formation,,138.9741575,-29.6975304
+PLASTIC TANK,Uranium,Low Significance,,Eyre Formation,,138.6822905,-29.5375764
+JUBILEE,"Uranium Oxide, Uranium",Locally Significant,,Eyre Formation,,138.7098755,-29.5037734
+SPOONERS,Uranium,Low Significance,MOUNT LOFTY RANGES INLIERS,Barossa Complex,,138.7832472,-34.8638785
+MILLBROOK WEST,Uranium,Low Significance,MOUNT LOFTY RANGES INLIERS,Barossa Complex,,138.8014672,-34.8370965
+MILLBROOK,Uranium,Low Significance,MOUNT LOFTY RANGES INLIERS,Barossa Complex,,138.8059872,-34.8360865
+MULGATHING,"Gold, Uranium",Low Significance,CHRISTIE SUBDOMAIN (GAWLER CRATON),Sullivan Shale Member,Sullivan Shale Member,134.4299511,-30.7374893
+BOW,Uranium,Low Significance,LAKE EYRE BASIN,Eyre Formation,,140.9725094,-28.0267665
+BASSO,"Feldspar, Beryl, Uranium",Low Significance,WILLYAMA INLIERS (CURNAMONA PROVINCE),pegmatite,Mesoproterozoic unit 1,140.1697752,-32.0833725
+NUNMULTA,"Uranium, Kaolin",Low Significance,,Uley Formation,,135.6118278,-34.2606864
+KADINA,"Iron, Uranium",Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),Oorlano Metasomatite,Palaeoproterozoic rocks,137.7573684,-33.8747454
+WEEDNANNA (GOLD),"Gold, Iron, Uranium",Significant to SA,CLEVE SUBDOMAIN (GAWLER CRATON),skarn,Hutchison Group,136.4798847,-32.7751404
+ULTIMA DAM EAST,"Iron, Gold, Uranium",Locally Significant,CLEVE SUBDOMAIN (GAWLER CRATON),skarn,Hutchison Group,136.4746987,-32.7341134
+TALLARINGA,"Uranium, Thorium",Low Significance,,Garford Formation,,133.2051283,-29.3341183
+EMU PLAIN,"Copper, Uranium",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),Tertiary-Pleistocene regolith/colluvial sediments,Warrow Quartzite,136.5589766,-33.6033654
+FOUR MILE WEST,"Uranium, Uranium Oxide",Significant to Australia,FROME EMBAYMENT (EROMANGA BASIN),Arrowie Formation,,139.4956174,-30.1516565
+DOUBLE DAM,"Uranium, Rare Earths",Low Significance,CURNAMONA PROVINCE,Willyama Supergroup unit 1,,140.6124393,-32.0904078
+CURRALULLA,Uranium,Low Significance,EROMANGA BASIN,Algebuckina Sandstone,,134.0730492,-26.3324323
+BOARDS,"Copper, Graphite, Uranium",Low Significance,CLEVE SUBDOMAIN (GAWLER CRATON),quartz vein unit 4,Lower Middleback Jaspilite,136.7366566,-33.6393234
+RADIUM HILL,"Uranium, Mica, Rare Earths, Radium, Uranium Oxide",Locally Significant,CURNAMONA PROVINCE,Willyama Supergroup unit 1,Willyama Supergroup unit 1,140.6380061,-32.3459705
+MOUNT IGY,Uranium,Low Significance,TERTIARY PALAEOCHANNELS,Garford Formation,,133.1540823,-29.4772933
+SAMPHIRE,Uranium,Low Significance,MOONTA SUBDOMAIN (GAWLER CRATON),hydrothermal alteration,Hiltaba Suite,137.3900695,-33.1963384
+NOB WELL,"Uranium, Limestone",Low Significance,,Marree Formation,Marree Formation,139.0091315,-30.0180845
+OAK DAM EAST,"Copper, Iron, Rare Earths, Uranium, Uranium Oxide",Locally Significant,GAWLER CRATON,skarn,Donington Suite,137.2491267,-30.9824574
