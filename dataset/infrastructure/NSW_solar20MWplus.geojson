@@ -1,0 +1,761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6092,
+          -34.9183
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2023",
+        "Operator": "Iberdrola",
+        "Owner": "Iberdrola SA",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805593",
+        "GEM phase ID": "G100000806435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4683,
+          -32.3568
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2019",
+        "Operator": "Banpu",
+        "Owner": "Banpu PCL",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805522",
+        "GEM phase ID": "G100000806361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5181,
+          -32.1264
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "pre-construction",
+        "Start year": "",
+        "Operator": "ACEN",
+        "Owner": "ACEN Corp",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805672",
+        "GEM phase ID": "G100000806525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4439,
+          -35.0486
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2020",
+        "Operator": "Spark Renewables",
+        "Owner": "Spark Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805480",
+        "GEM phase ID": "G100000806316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4441,
+          -35.0492
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2020",
+        "Operator": "Spark Renewables",
+        "Owner": "Spark Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805480",
+        "GEM phase ID": "G100000811479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3411,
+          -29.1889
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "pre-construction",
+        "Start year": "2025",
+        "Operator": "Gaia Australia",
+        "Owner": "Gaia Australia",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805581",
+        "GEM phase ID": "G100000806423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3411,
+          -29.1889
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "announced",
+        "Start year": "",
+        "Operator": "Gaia Australia",
+        "Owner": "Gaia Australia",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805581",
+        "GEM phase ID": "G100000811480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3411,
+          -29.1889
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "announced",
+        "Start year": "",
+        "Operator": "Gaia Australia",
+        "Owner": "Gaia Australia",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805581",
+        "GEM phase ID": "G100001022215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6413,
+          -31.8824
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2015",
+        "Operator": "AGL Energy",
+        "Owner": "AGL Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805473",
+        "GEM phase ID": "G100000806306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9558,
+          -34.7399
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2018",
+        "Operator": "Bouygues Construction",
+        "Owner": "Neoen SA",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805447",
+        "GEM phase ID": "G100000806280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3615,
+          -35.9863
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2021",
+        "Operator": "Metka EGN",
+        "Owner": "Metka EGN Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805467",
+        "GEM phase ID": "G100000806300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.973,
+          -35.6967
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "construction",
+        "Start year": "2025",
+        "Operator": "Neoen",
+        "Owner": "Neoen SA",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805621",
+        "GEM phase ID": "G100000806467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2441,
+          -35.4495
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "cancelled",
+        "Start year": "",
+        "Operator": "Renewable Energy Systems (RES)",
+        "Owner": "Renewable Energy Systems (RES)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805637",
+        "GEM phase ID": "G100000806483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0368,
+          -34.647
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2020",
+        "Operator": "Canadian Solar",
+        "Owner": "Octopus Investments Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805448",
+        "GEM phase ID": "G100000806281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5086,
+          -35.6442
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2019",
+        "Operator": "Signal Energy Constructors",
+        "Owner": "Australia and New Zealand Banking Group (ANZ); John Laing Group PLC; Westpac Banking CORP (Westpac)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805479",
+        "GEM phase ID": "G100000806315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0462,
+          -33.3024
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "announced",
+        "Start year": "",
+        "Operator": "ACE Power",
+        "Owner": "ACE Power",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805497",
+        "GEM phase ID": "G100000806335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1072,
+          -32.2821
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "pre-construction",
+        "Start year": "2026",
+        "Operator": "Lightsource BP",
+        "Owner": "Lightsource BP",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805465",
+        "GEM phase ID": "G100000806298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1207,
+          -34.3174
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2018",
+        "Operator": "ENcome",
+        "Owner": "Neoen SA",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805454",
+        "GEM phase ID": "G100000806287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7394,
+          -34.8151
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "shelved",
+        "Start year": "",
+        "Operator": "Tilt Renewables",
+        "Owner": "Tilt Renewables Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805484",
+        "GEM phase ID": "G100000806320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6694,
+          -33.3888
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2020",
+        "Operator": "Beon Energy Solutions",
+        "Owner": "Genex Power",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805443",
+        "GEM phase ID": "G100000806276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8677,
+          -35.9088
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "pre-construction",
+        "Start year": "",
+        "Operator": "Green Switch Solutions",
+        "Owner": "Green Switch Solutions",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805463",
+        "GEM phase ID": "G100000806296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5721,
+          -34.8112
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2021",
+        "Operator": "Metka EGN",
+        "Owner": "Metka EGN Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805468",
+        "GEM phase ID": "G100000806301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.508,
+          -34.7755
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2021",
+        "Operator": "Belectric",
+        "Owner": "RWE AG",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805442",
+        "GEM phase ID": "G100000806275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9001,
+          -33.0826
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2020",
+        "Operator": "AMP Energy",
+        "Owner": "Gransolar Group (GRS)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805437",
+        "GEM phase ID": "G100000806270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9256,
+          -33.9534
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2023",
+        "Operator": "Solar Bay",
+        "Owner": "Solar Bay",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000827488",
+        "GEM phase ID": "G100000830985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8669,
+          -29.5722
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2016",
+        "Operator": "Fotowatio Renewable Ventures (FRV)",
+        "Owner": "Fotowatio Renewable Ventures (FRV) BV",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805461",
+        "GEM phase ID": "G100000806294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7052,
+          -31.831
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2020",
+        "Operator": "Biosar Energy",
+        "Owner": "Elliot Green Power (EGP)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805445",
+        "GEM phase ID": "G100000806278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6001,
+          -30.6381
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2023",
+        "Operator": "UPC/AC Renewables Australia",
+        "Owner": "UPC/AC Renewables Australia",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805489",
+        "GEM phase ID": "G100000806326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6063,
+          -30.6211
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "construction",
+        "Start year": "2026",
+        "Operator": "UPC/AC Renewables Australia",
+        "Owner": "UPC/AC Renewables Australia",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805489",
+        "GEM phase ID": "G100000806327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0742,
+          -31.5632
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2016",
+        "Operator": "First Solar",
+        "Owner": "AGL Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805459",
+        "GEM phase ID": "G100000806292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0764,
+          -33.1131
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2017",
+        "Operator": "ENcome",
+        "Owner": "Neoen SA; Australian Renewable Energy Agency (ARENA)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805455",
+        "GEM phase ID": "G100000806288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4349,
+          -29.7045
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "pre-construction",
+        "Start year": "2026",
+        "Operator": "CWP Renewables",
+        "Owner": "CWP Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805450",
+        "GEM phase ID": "G100000806283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7551,
+          -30.3402
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2021",
+        "Operator": "ENGIE",
+        "Owner": "ENGIE SA",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805456",
+        "GEM phase ID": "G100000806289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5092,
+          -34.8215
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "operating",
+        "Start year": "2022",
+        "Operator": "Decmil Group",
+        "Owner": "Maoneng Group ; John Laing Group PLC",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805451",
+        "GEM phase ID": "G100000806284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.0599,
+          -34.6034
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "announced",
+        "Start year": "2027",
+        "Operator": "Spark Renewables",
+        "Owner": "University of Sydney; Spark Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000827496",
+        "GEM phase ID": "G100000830997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096,
+          -33.8738
+        ]
+      },
+      "properties": {
+        "\ufeffStatus": "construction",
+        "Start year": "2025",
+        "Operator": "Wollar Solar Farm",
+        "Owner": "BJEI Australia",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "State/Province": "New South Wales",
+        "GEM location ID": "L100000805493",
+        "GEM phase ID": "G100000806331"
+      }
+    }
+  ]
+}

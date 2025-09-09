@@ -1,0 +1,2345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9773,
+          -32.3715
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "ADL-RayGen wind farm",
+        "Capacity (MW)": "653",
+        "Installation Type": "Onshore",
+        "Status": "shelved - inferred 2 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "AGL Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000905984",
+        "GEM phase ID": "G100000908175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7984,
+          -32.1607
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "AGL Energy New South Wales wind farm",
+        "Capacity (MW)": "450",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "AGL Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020424",
+        "GEM phase ID": "G100001023277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.368,
+          -32.8696
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Alectown wind farm",
+        "Capacity (MW)": "120",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "Neoen",
+        "Owner": "Neoen SA",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "Alectown",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906107",
+        "GEM phase ID": "G100000908318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1879,
+          -34.6852
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Baldon wind farm",
+        "Capacity (MW)": "900",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Goldwind Australia Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000922298",
+        "GEM phase ID": "G100000927812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7322,
+          -34.5517
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Bango wind farm",
+        "Capacity (MW)": "244",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2022",
+        "Operator": "Partners Group Holding; CWP Renewables",
+        "Owner": "CWP Renewables; Partners Group Holding AG",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906016",
+        "GEM phase ID": "G100000908212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5268,
+          -32.2124
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Barneys Reef wind farm",
+        "Capacity (MW)": "440",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Renewable Energy Systems (RES)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001019903",
+        "GEM phase ID": "G100001022561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096,
+          -30.9122
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Bendemeer Renewable Energy Hub wind farm",
+        "Capacity (MW)": "360",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2030",
+        "Operator": "",
+        "Owner": "Athena Energy Australia",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001019730",
+        "GEM phase ID": "G100001022350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3698,
+          -34.5877
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Biala wind farm",
+        "Capacity (MW)": "111",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2021",
+        "Operator": "",
+        "Owner": "Beijing Jingneng Clean Energy (Australia) Holding PTY LTD (BJCE)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906004",
+        "GEM phase ID": "G100000908197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7101,
+          -33.841
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Black Springs wind farm",
+        "Capacity (MW)": "19",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Wind Corp",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Oberon",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906201",
+        "GEM phase ID": "G100000908438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1889,
+          -33.6199
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Blayney wind farm",
+        "Capacity (MW)": "10",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2001",
+        "Operator": "",
+        "Owner": "Tilt Renewables Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906184",
+        "GEM phase ID": "G100000908419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096,
+          -33.8738
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Boco Rock wind farm",
+        "Capacity (MW)": "106",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2039",
+        "Operator": "",
+        "Owner": "CWP Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906014",
+        "GEM phase ID": "G100000908210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1731,
+          -36.5567
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Boco Rock wind farm",
+        "Capacity (MW)": "99",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2014",
+        "Operator": "Wind Prospect PTY LTD (TWO DIFFERENT) CWP Renewables",
+        "Owner": "EGGO",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906014",
+        "GEM phase ID": "G100000908220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1731,
+          -36.5567
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Boco Rock wind farm",
+        "Capacity (MW)": "14",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2014",
+        "Operator": "Wind Prospect PTY LTD (TWO DIFFERENT) CWP Renewables",
+        "Owner": "EGGO",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906014",
+        "GEM phase ID": "G100000908221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0609,
+          -32.3996
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Bodangora wind farm",
+        "Capacity (MW)": "113",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2019",
+        "Operator": "Infigen Energy",
+        "Owner": "Infigen Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906061",
+        "GEM phase ID": "G100000908263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0958,
+          -32.2631
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Bowman's Creek wind farm",
+        "Capacity (MW)": "335",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2029",
+        "Operator": "",
+        "Owner": "Ark Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906028",
+        "GEM phase ID": "G100000908229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0958,
+          -32.2631
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Bowman's Creek wind farm",
+        "Capacity (MW)": "120",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Ark Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906028",
+        "GEM phase ID": "G100001022681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7778,
+          -32.258
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Bowmans Creek wind farm",
+        "Capacity (MW)": "347",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Bowmans Creek Wind Farm Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Muswellbrook",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020426",
+        "GEM phase ID": "G100001023281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6701,
+          -30.4915
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Box Hill wind farm",
+        "Capacity (MW)": "20",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "AGL Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Armidale",
+        "State": "New South Wales",
+        "GEM location ID": "L100000905987",
+        "GEM phase ID": "G100000908178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1579,
+          -34.8127
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Bullawah wind farm",
+        "Capacity (MW)": "1000",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2027",
+        "Operator": "",
+        "Owner": "BayWa R.E. AG",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "Hay",
+        "State": "New South Wales",
+        "GEM location ID": "L100000922303",
+        "GEM phase ID": "G100000927824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2438,
+          -32.677
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Burrendong wind farm",
+        "Capacity (MW)": "500",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2038",
+        "Operator": "",
+        "Owner": "Ark Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906029",
+        "GEM phase ID": "G100000908230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5246,
+          -35.1608
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Capital wind farm",
+        "Capacity (MW)": "141",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2010",
+        "Operator": "Infigen Energy",
+        "Owner": "Infigen Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906063",
+        "GEM phase ID": "G100000908265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0283,
+          -31.3465
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Cobar wind farm",
+        "Capacity (MW)": "216",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "WestWind Energy Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Cobar",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020103",
+        "GEM phase ID": "G100001022879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3967,
+          -34.8719
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Collector wind farm",
+        "Capacity (MW)": "227",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2021",
+        "Operator": "RATCH-Australia Corporation",
+        "Owner": "RATCH-Australia Corporation Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "Bornree",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906151",
+        "GEM phase ID": "G100000908379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7546,
+          -34.8138
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Conroy's Gap wind farm",
+        "Capacity (MW)": "30",
+        "Installation Type": "Onshore",
+        "Status": "cancelled - inferred 4 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Epuron",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Conroy's Gap",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906026",
+        "GEM phase ID": "G100000908226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7351,
+          -34.7846
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Conroy's Gap wind farm",
+        "Capacity (MW)": "45",
+        "Installation Type": "Onshore",
+        "Status": "cancelled - inferred 4 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Epuron",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Conroy's Gap",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906026",
+        "GEM phase ID": "G100000908227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1653,
+          -36.3231
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Coonerang wind farm",
+        "Capacity (MW)": "150",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2027",
+        "Operator": "",
+        "Owner": "Someva Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001019901",
+        "GEM phase ID": "G100001022559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5551,
+          -34.7363
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Coppabella (Goldwind) wind farm",
+        "Capacity (MW)": "290",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2026",
+        "Operator": "",
+        "Owner": "Goldwind",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906050",
+        "GEM phase ID": "G100000908251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5965,
+          -34.5408
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Crookwell wind farm",
+        "Capacity (MW)": "91",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2018",
+        "Operator": "Naturgy Energy Group",
+        "Owner": "Naturgy Energy Group SA",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906097",
+        "GEM phase ID": "G100000908303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.695,
+          -34.3669
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Crookwell wind farm",
+        "Capacity (MW)": "58",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "Global Power Generation Australia",
+        "Owner": "Naturgy Energy Group SA",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Goulburn",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906097",
+        "GEM phase ID": "G100000908304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6759,
+          -32.9348
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Crudine Ridge wind farm",
+        "Capacity (MW)": "133",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2020",
+        "Operator": "Partners Group Holding; CWP Renewables",
+        "Owner": "Partners Group Holding AG",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906146",
+        "GEM phase ID": "G100000908370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4009,
+          -34.8067
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Cullerin Range wind farm",
+        "Capacity (MW)": "14",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2009",
+        "Operator": "Energy Developments",
+        "Owner": "Energy Developments Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906022",
+        "GEM phase ID": "G100000908218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4009,
+          -34.8067
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Cullerin Range wind farm",
+        "Capacity (MW)": "12",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2009",
+        "Operator": "Energy Developments",
+        "Owner": "Energy Developments Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906022",
+        "GEM phase ID": "G100000908219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7358,
+          -34.76
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Devlins Bridge wind farm",
+        "Capacity (MW)": "650",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2027",
+        "Operator": "",
+        "Owner": "Stromlo Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020104",
+        "GEM phase ID": "G100001022880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5793,
+          -34.9628
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Dinawan Energy Hub wind farm",
+        "Capacity (MW)": "1250",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2027",
+        "Operator": "",
+        "Owner": "Spark Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906240",
+        "GEM phase ID": "G100000908489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1328,
+          -30.413
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Doughboy wind farm",
+        "Capacity (MW)": "300",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Ark Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "Armidale",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906031",
+        "GEM phase ID": "G100000908232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6171,
+          -34.403
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Euston wind farm",
+        "Capacity (MW)": "700",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "DP Energy Australia",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Euston",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020131",
+        "GEM phase ID": "G100001022912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2537,
+          -33.5323
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Flyers Creek wind farm",
+        "Capacity (MW)": "145",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2024",
+        "Operator": "Iberdrola Australia",
+        "Owner": "Iberdrola Australia",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Orange",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906064",
+        "GEM phase ID": "G100000908266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6045,
+          -29.732
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Glen Innes wind farm",
+        "Capacity (MW)": "75",
+        "Installation Type": "Onshore",
+        "Status": "cancelled - inferred 4 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Nexif Energy",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Glen Innes",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906118",
+        "GEM phase ID": "G100000908331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3834,
+          -36.5717
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Granite Hills wind farm",
+        "Capacity (MW)": "121",
+        "Installation Type": "Onshore",
+        "Status": "shelved",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Akuo Energy",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Nimmitabel",
+        "State": "New South Wales",
+        "GEM location ID": "L100000905991",
+        "GEM phase ID": "G100000908182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4331,
+          -34.5442
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Gullen Range wind farm",
+        "Capacity (MW)": "138",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2014",
+        "Operator": "Goldwind Australia",
+        "Owner": "Beijing Jingneng Clean Energy (Australia) Holding PTY LTD (BJCE)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906003",
+        "GEM phase ID": "G100000908195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.456,
+          -34.6329
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Gullen Range wind farm",
+        "Capacity (MW)": "27",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2014",
+        "Operator": "Goldwind Australia",
+        "Owner": "Beijing Jingneng Clean Energy (Australia) Holding PTY LTD (BJCE)",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906003",
+        "GEM phase ID": "G100000908196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3829,
+          -34.6878
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Gunning wind farm",
+        "Capacity (MW)": "46",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2011",
+        "Operator": "Acciona",
+        "Owner": "Acciona SA",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000905973",
+        "GEM phase ID": "G100000908164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0787,
+          -31.5408
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Hills Of Gold wind farm",
+        "Capacity (MW)": "420",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2033",
+        "Operator": "ENGIE",
+        "Owner": "Wind Energy Partners LLC",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Nundle",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906202",
+        "GEM phase ID": "G100000908439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8128,
+          -35.0461
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Jeremiah wind farm",
+        "Capacity (MW)": "400",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Squadron Energy Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Gundagai",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020303",
+        "GEM phase ID": "G100001023114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2722,
+          -32.2463
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Jones Creek wind farm",
+        "Capacity (MW)": "150",
+        "Installation Type": "Onshore",
+        "Status": "shelved - inferred 2 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "ACE Power",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000917270",
+        "GEM phase ID": "G100000921426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5662,
+          -34.8388
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Juction Rivers wind farm",
+        "Capacity (MW)": "750",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Windlab Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000922305",
+        "GEM phase ID": "G100000927826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6503,
+          -35.0723
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Jupiter wind farm",
+        "Capacity (MW)": "350",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "EPYC",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Tarago",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906040",
+        "GEM phase ID": "G100000908241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1021,
+          -33.0173
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Kerrs Creek wind farm",
+        "Capacity (MW)": "441",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "RES",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Kerrs Creek",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020266",
+        "GEM phase ID": "G100001023077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9557,
+          -34.3764
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Koorakee Energy Park wind farm",
+        "Capacity (MW)": "1000",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2028",
+        "Operator": "",
+        "Owner": "Squadron Energy Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Euston",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020121",
+        "GEM phase ID": "G100001022902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8672,
+          -32.0509
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Kyoto Energy Park wind farm",
+        "Capacity (MW)": "101",
+        "Installation Type": "Onshore",
+        "Status": "cancelled - inferred 4 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Pamada Group Holdings",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Scone",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906145",
+        "GEM phase ID": "G100000908369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9836,
+          -33.653
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Lake Victoria wind project",
+        "Capacity (MW)": "1500",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2031",
+        "Operator": "",
+        "Owner": "WestWind Energy Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Wentworth",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020308",
+        "GEM phase ID": "G100001023118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.9788,
+          -32.0064
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Liverpool Range wind farm",
+        "Capacity (MW)": "1332",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2026",
+        "Operator": "",
+        "Owner": "Tilt Renewables Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Cassilis",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906187",
+        "GEM phase ID": "G100000908422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2144,
+          -34.1461
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Mallee wind farm",
+        "Capacity (MW)": "1000",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2027",
+        "Operator": "",
+        "Owner": "Spark Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Wentworth",
+        "State": "New South Wales",
+        "GEM location ID": "L100000922317",
+        "GEM phase ID": "G100000927845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564,
+          -35.4628
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Merino wind farm",
+        "Capacity (MW)": "1000",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Octopus Australia",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Deniliquin",
+        "State": "New South Wales",
+        "GEM location ID": "L100001019898",
+        "GEM phase ID": "G100001022556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3635,
+          -35.6545
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Molongo wind farm",
+        "Capacity (MW)": "120",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Acciona SA",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Queanbeyan",
+        "State": "New South Wales",
+        "GEM location ID": "L100000905979",
+        "GEM phase ID": "G100000908170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0501,
+          -32.7249
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Mumbil wind farm",
+        "Capacity (MW)": "100",
+        "Installation Type": "Onshore",
+        "Status": "shelved - inferred 2 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Ark Energy",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Mumbil",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906035",
+        "GEM phase ID": "G100000908236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9811,
+          -38.4846
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Newfield wind farm (Australia)",
+        "Capacity (MW)": "22",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Acciona SA",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Port Campbell",
+        "State": "New South Wales",
+        "GEM location ID": "L100000905982",
+        "GEM phase ID": "G100000908173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.594,
+          -30.9834
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Newtricity Woolbrook wind farm",
+        "Capacity (MW)": "80",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Newtricity Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Walcha",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906116",
+        "GEM phase ID": "G100000908327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6887,
+          -37.2967
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Nyaninyuk wind farm",
+        "Capacity (MW)": "330",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Acciona Energ\u00eda SAU",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020300",
+        "GEM phase ID": "G100001023110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7278,
+          -34.1169
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Paling Yards wind farm",
+        "Capacity (MW)": "200",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Naturgy Energy Group SA",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Oberon",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906101",
+        "GEM phase ID": "G100000908309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.088,
+          -33.9643
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Penshurts wind farm",
+        "Capacity (MW)": "758",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Renewable Energy Systems (RES)",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Penshurst",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906167",
+        "GEM phase ID": "G100000908397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8015,
+          -35.0347
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Pottinger Energy Park wind farm",
+        "Capacity (MW)": "1200",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2028",
+        "Operator": "",
+        "Owner": "Someva Renewables; AGL Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Hay",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020128",
+        "GEM phase ID": "G100001022909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1876,
+          -33.2301
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Project NEO wind farm",
+        "Capacity (MW)": "500",
+        "Installation Type": "Onshore",
+        "Status": "cancelled - inferred 4 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Infinite Blue Energy",
+        "Hydrogen": "TRUE",
+        "Location accuracy": "approximate",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906241",
+        "GEM phase ID": "G100000908490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096,
+          -33.8738
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Rangoon wind farm",
+        "Capacity (MW)": "65",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Infrastructure Capital Group",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Glen Innes",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906092",
+        "GEM phase ID": "G100000908296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096,
+          -33.8738
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Rangoon wind farm",
+        "Capacity (MW)": "65",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Infrastructure Capital Group",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Glen Innes",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906092",
+        "GEM phase ID": "G100000908297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4068,
+          -30.9518
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Ruby Hills wind farm",
+        "Capacity (MW)": "860",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2030",
+        "Operator": "",
+        "Owner": "Origin Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Walcha",
+        "State": "New South Wales",
+        "GEM location ID": "L100000922326",
+        "GEM phase ID": "G100000927861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9533,
+          -34.6331
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Rye Park wind farm",
+        "Capacity (MW)": "327",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2024",
+        "Operator": "",
+        "Owner": "Tilt Renewables Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "Rye Park",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906189",
+        "GEM phase ID": "G100000908424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8428,
+          -34.8874
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Saltbush wind farm",
+        "Capacity (MW)": "400",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Octopus Australia",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001019897",
+        "GEM phase ID": "G100001022555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4111,
+          -29.6998
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Sapphire wind farm (Australia)",
+        "Capacity (MW)": "270",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2018",
+        "Operator": "Partners Group Holding; CWP Renewables",
+        "Owner": "CWP Renewables; Partners Group Holding AG",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906017",
+        "GEM phase ID": "G100000908213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3986,
+          -35.086
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Shannon's Flat wind farm",
+        "Capacity (MW)": "50",
+        "Installation Type": "Onshore",
+        "Status": "cancelled - inferred 4 y",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "BlueNRGY Group LTD (CBD)",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Adjungbilly",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906005",
+        "GEM phase ID": "G100000908198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2964,
+          -31.8609
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Silverton wind farm",
+        "Capacity (MW)": "197",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2020",
+        "Operator": "AGL Energy",
+        "Owner": "AGL Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "Silverton",
+        "State": "New South Wales",
+        "GEM location ID": "L100000905983",
+        "GEM phase ID": "G100000908174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096,
+          -33.8738
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Snowy Plains wind farm",
+        "Capacity (MW)": "30",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Epuron",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Berridale",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906036",
+        "GEM phase ID": "G100000908237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1393,
+          -32.2188
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Spicers Creek wind farm",
+        "Capacity (MW)": "700",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Squadron Energy Pty Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020313",
+        "GEM phase ID": "G100001023123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8192,
+          -33.4166
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Sunny Corner wind farm",
+        "Capacity (MW)": "500",
+        "Installation Type": "Onshore",
+        "Status": "announced",
+        "Start year": "2030",
+        "Operator": "",
+        "Owner": "Someva Renewables ; Mainstream Renewable Power",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020299",
+        "GEM phase ID": "G100001023109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096,
+          -33.8738
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Tara Springs wind farm",
+        "Capacity (MW)": "400",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Renewable Energy Systems (RES)",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906168",
+        "GEM phase ID": "G100000908398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8624,
+          -34.4289
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Taralga wind farm",
+        "Capacity (MW)": "24",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2015",
+        "Operator": "CWP Renewables",
+        "Owner": "Pacific Hydro",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906134",
+        "GEM phase ID": "G100000908350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8624,
+          -34.4289
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Taralga wind farm",
+        "Capacity (MW)": "42",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2015",
+        "Operator": "Pacific Hydro",
+        "Owner": "Pacific Hydro",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906134",
+        "GEM phase ID": "G100000908355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8624,
+          -34.4289
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Taralga wind farm",
+        "Capacity (MW)": "40",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2015",
+        "Operator": "Pacific Hydro",
+        "Owner": "Pacific Hydro",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906134",
+        "GEM phase ID": "G100000908356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.091,
+          -34.5443
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "The Plains wind farm",
+        "Capacity (MW)": "1350",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2028",
+        "Operator": "",
+        "Owner": "Engie ANZ",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Hay",
+        "State": "New South Wales",
+        "GEM location ID": "L100000922330",
+        "GEM phase ID": "G100000927866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3428,
+          -30.7529
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Thunderbolt Energy Hub wind farm",
+        "Capacity (MW)": "190",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2039",
+        "Operator": "Neoen",
+        "Owner": "Neoen SA",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Bendemeer",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906114",
+        "GEM phase ID": "G100000908325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3428,
+          -30.7529
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Thunderbolt Energy Hub wind farm",
+        "Capacity (MW)": "190",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2039",
+        "Operator": "Neoen",
+        "Owner": "Neoen SA",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Bendemeer",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906114",
+        "GEM phase ID": "G100001022798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7565,
+          -32.0392
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Upper Hunter Energy Park wind farm",
+        "Capacity (MW)": "80",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2029",
+        "Operator": "",
+        "Owner": "Pamada Group Holdings",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Owen\u2019s Gap",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906144",
+        "GEM phase ID": "G100000908368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1772,
+          -32.5825
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Uungula wind farm",
+        "Capacity (MW)": "414",
+        "Installation Type": "Onshore",
+        "Status": "construction",
+        "Start year": "2028",
+        "Operator": "",
+        "Owner": "CWP Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Wellington",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906015",
+        "GEM phase ID": "G100000908211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.645,
+          -31.8544
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Valley Of The Winds wind farm",
+        "Capacity (MW)": "800",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2034",
+        "Operator": "",
+        "Owner": "AC Energy; UPC Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Coolah",
+        "State": "New South Wales",
+        "GEM location ID": "L100000905972",
+        "GEM phase ID": "G100000908163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7833,
+          -30.8333
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Walcha Energy Project wind farm",
+        "Capacity (MW)": "2540",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "MirusWind",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Winterbourne",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906093",
+        "GEM phase ID": "G100000908298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8876,
+          -34.5353
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Wattle Creek Energy Hub wind farm",
+        "Capacity (MW)": "250",
+        "Installation Type": "Onshore",
+        "Status": "cancelled",
+        "Start year": "",
+        "Operator": "",
+        "Owner": "Spark Renewables",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Big Hill",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020305",
+        "GEM phase ID": "G100001023115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8944,
+          -34.6884
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Wilan wind farm",
+        "Capacity (MW)": "800",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2029",
+        "Operator": "",
+        "Owner": "Kilara Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000922333",
+        "GEM phase ID": "G100000927869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5933,
+          -30.9852
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Winterbourne wind farm",
+        "Capacity (MW)": "700",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2025",
+        "Operator": "",
+        "Owner": "Vestas Wind Systems A/S",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Walcha",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906197",
+        "GEM phase ID": "G100000908434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5655,
+          -35.0788
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Woodlawn wind farm",
+        "Capacity (MW)": "48",
+        "Installation Type": "Onshore",
+        "Status": "operating",
+        "Start year": "2011",
+        "Operator": "Infigen Energy",
+        "Owner": "Infigen Energy",
+        "Hydrogen": "",
+        "Location accuracy": "exact",
+        "City": "",
+        "State": "New South Wales",
+        "GEM location ID": "L100000906065",
+        "GEM phase ID": "G100000908267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7268,
+          -35.3141
+        ]
+      },
+      "properties": {
+        "\ufeffCountry/Area": "Australia",
+        "Project Name": "Yanco Delta wind farm",
+        "Capacity (MW)": "1500",
+        "Installation Type": "Onshore",
+        "Status": "pre-construction",
+        "Start year": "2029",
+        "Operator": "",
+        "Owner": "Origin Energy Ltd",
+        "Hydrogen": "",
+        "Location accuracy": "approximate",
+        "City": "Jerilderie",
+        "State": "New South Wales",
+        "GEM location ID": "L100001020285",
+        "GEM phase ID": "G100001023095"
+      }
+    }
+  ]
+}
